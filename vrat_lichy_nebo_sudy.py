@@ -16,4 +16,3 @@ def returnOddOrEven(list, return_even):
 
 print(returnOddOrEven(list, True))
 print(returnOddOrEven(list, False))
-

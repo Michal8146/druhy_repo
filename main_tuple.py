@@ -10,7 +10,7 @@ def find_min_max(numbers):
         elif num > max_num:
             max_num = num
     
-    return (min_num, max_num)
+    return min_num, max_num
 
 print(find_min_max(a))
 
