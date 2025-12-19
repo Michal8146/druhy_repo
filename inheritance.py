@@ -38,6 +38,6 @@ skodovka = Bike("Merida", "80 km/h", True)
 print(skodovka.describe())
 
 skodovka = Bike("::", "50 km/h", False)
-print(skodovka.describe())
+print(skodovka.describe()) 
 
 
