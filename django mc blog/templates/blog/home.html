@@ -6,6 +6,32 @@
     <p class="home-subtitle">ze světa Minecraftu</p>
 </div>
 
+<form method="GET" action="" class="search-bar-form mb-4">
+    <div class="search-bar-wrapper">
+        <input
+            type="text"
+            name="search"
+            class="search-input"
+            placeholder="Hledat v článcích..."
+            value="{{ search }}"
+        >
+        <select name="category" class="search-select">
+            <option value="">Všechny kategorie</option>
+            {% for cat in categories %}
+                <option value="{{ cat.id }}" {% if selected_category == cat.id|stringformat:"s" %}selected{% endif %}>
+                    {{ cat.name }}
+                </option>
+            {% endfor %}
+        </select>
+        <button type="submit" class="search-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none"
+                 viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.2">
+                <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+            </svg>
+        </button>
+    </div>
+</form>
+
 <div class="articles-grid">
     {% for article in articles %}
     <a href="{% url 'article_detail' article.id %}" class="article-card">
@@ -206,6 +232,70 @@
     }
 
     .empty-icon { font-size: 1.5rem; }
+
+
+        /* SEARCH BAR */
+    .search-bar-wrapper {
+        display: flex;
+        align-items: center;
+        background: var(--bg-card);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        transition: border-color 0.2s;
+    }
+
+    .search-bar-wrapper:focus-within {
+        border-color: rgba(138,170,141,0.45);
+    }
+
+    .search-input {
+        flex: 1;
+        background: transparent;
+        border: none;
+        outline: none;
+        padding: 0.65rem 1rem;
+        color: var(--text-primary);
+        font-size: 0.9rem;
+        font-family: inherit;
+    }
+
+    .search-input::placeholder {
+        color: var(--text-muted);
+    }
+
+    .search-select {
+        background: var(--bg-card);
+        border: none;
+        border-left: 1px solid var(--border-subtle);
+        outline: none;
+        padding: 0.65rem 0.75rem;
+        color: var(--text-secondary);
+        font-size: 0.875rem;
+        font-family: inherit;
+        cursor: pointer;
+    }
+
+    .search-select option {
+        background: var(--bg-card);
+    }
+
+    .search-btn {
+        background: transparent;
+        border: none;
+        border-left: 1px solid var(--border-subtle);
+        padding: 0.65rem 1rem;
+        color: var(--text-muted);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        transition: color 0.2s, background 0.2s;
+    }
+
+    .search-btn:hover {
+        color: var(--sage);
+        background: rgba(138,170,141,0.07);
+    }
 </style>
 
 {% endblock %}

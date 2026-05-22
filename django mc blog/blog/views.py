@@ -5,13 +5,26 @@ from .models import Article
 from .forms import ArticleForm
 from comments.models import Comment
 from comments.forms import CommentForm
+from .models import Article, Category
 
 def home_view(request):
-    # Získáme všechny články, seřazené od nejnovějšího
     articles = Article.objects.all().order_by('-created_at')
-    
+    categories = Category.objects.all()
+
+    search = request.GET.get('search', '').strip()
+    category_id = request.GET.get('category', '')
+
+    if search:
+        articles = articles.filter(title__icontains=search) | articles.filter(content__icontains=search)
+
+    if category_id:
+        articles = articles.filter(category__id=category_id)
+
     context = {
-        'articles': articles
+        'articles': articles,
+        'categories': categories,
+        'search': search,
+        'selected_category': category_id,
     }
     return render(request, 'blog/home.html', context)
 

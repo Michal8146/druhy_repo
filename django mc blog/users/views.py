@@ -46,11 +46,9 @@ def custom_login(request):
 
 @login_required
 def profile(request):
-    # Bezpečnostní pojistka: vytvoří profil, pokud chybí (např. u admina vytvořeného před signály)
     Profile.objects.get_or_create(user=request.user)
 
     if request.method == 'POST':
-        # request.FILES je extrémně důležité pro ukládání obrázků!
         u_form = UserUpdateForm(request.POST, instance=request.user)
         p_form = ProfileUpdateForm(request.POST, request.FILES, instance=request.user.profile)
         
@@ -63,9 +61,12 @@ def profile(request):
         u_form = UserUpdateForm(instance=request.user)
         p_form = ProfileUpdateForm(instance=request.user.profile)
 
+    user_articles = Article.objects.filter(author=request.user).order_by('-created_at')  # ← přidat
+
     context = {
         'u_form': u_form,
-        'p_form': p_form
+        'p_form': p_form,
+        'user_articles': user_articles,  # ← přidat
     }
     return render(request, 'users/profile.html', context)
 

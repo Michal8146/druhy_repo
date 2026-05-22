@@ -1,0 +1,8 @@
+
+-moznost ODKRYT HESLO ocickem (prihlasovani, registrace)
+
+-moznost pridat komentar na clanek nejenom na clanek = DISKUZE
+
+-light mode? (zmeneni svetle zelene na tmavsi)
+
+-HIERARCHIE

@@ -80,10 +80,11 @@
 
         .navbar-brand:hover { color: var(--cream) !important; }
 
+
         .nav-link {
-            font-weight: 500;
+            font-weight: 500;  /* was 400 */
             font-size: 0.88rem;
-            color: var(--text-secondary) !important;
+            color: var(--mint) !important;  /* was var(--text-secondary) */
             padding: 0.45rem 1rem !important;
             border-radius: var(--radius-sm);
             transition: color 0.2s, background 0.2s;
@@ -96,7 +97,6 @@
 
         .nav-link.text-warning {
             color: var(--mint) !important;
-            font-weight: 600;
         }
 
         .nav-link.text-warning:hover {
@@ -115,8 +115,8 @@
         }
 
         .navbar .text-light {
-            color: var(--text-primary) !important;
-            font-weight: 500;
+            color: var(--mint) !important;  /* was var(--text-primary) */
+            font-weight: 500;  /* was 400 */
             font-size: 0.88rem;
         }
 
@@ -263,7 +263,7 @@
                 <a class="nav-link" href="{% url 'home' %}">Domů</a>
 
                 {% if user.is_authenticated %}
-                    <a href="{% url 'create_article' %}" class="nav-link text-warning fw-bold">Napsat článek</a>
+                    <a href="{% url 'create_article' %}" class="nav-link text-warning">Napsat článek</a>
 
                     <form action="{% url 'logout' %}" method="post" class="d-inline">
                         {% csrf_token %}
@@ -278,7 +278,7 @@
                                 <span class="fs-6">👤</span>
                             </div>
                         {% endif %}
-                        <span class="text-light fw-bold">{{ user.username }}</span>
+                        <span class="text-light">{{ user.username }}</span>
                     </a>
 
                 {% else %}
