@@ -56,13 +56,21 @@
     "fields": {
       "username": "redstone_wizard",
       "email": "redstone@minecraft.cz",
+<<<<<<< Updated upstream
       "first_name": "Marek",
+=======
+      "first_name": "Lukáš",
+>>>>>>> Stashed changes
       "last_name": "Červenka",
       "password": "pbkdf2_sha256$600000$test$hashedpassword==",
       "is_staff": false,
       "is_active": true,
       "is_superuser": false,
+<<<<<<< Updated upstream
       "date_joined": "2024-02-18T00:00:00Z",
+=======
+      "date_joined": "2024-02-20T00:00:00Z",
+>>>>>>> Stashed changes
       "groups": [],
       "user_permissions": []
     }
@@ -71,10 +79,17 @@
     "model": "auth.user",
     "pk": 6,
     "fields": {
+<<<<<<< Updated upstream
       "username": "farmcraft_eva",
       "email": "farm@minecraft.cz",
       "first_name": "Eva",
       "last_name": "Polní",
+=======
+      "username": "enderman_pete",
+      "email": "enderman@minecraft.cz",
+      "first_name": "Petr",
+      "last_name": "Novák",
+>>>>>>> Stashed changes
       "password": "pbkdf2_sha256$600000$test$hashedpassword==",
       "is_staff": false,
       "is_active": true,
@@ -88,15 +103,26 @@
     "model": "auth.user",
     "pk": 7,
     "fields": {
+<<<<<<< Updated upstream
       "username": "nether_knight",
       "email": "nether@minecraft.cz",
       "first_name": "Lukáš",
       "last_name": "Pekelný",
+=======
+      "username": "farmcraft_eva",
+      "email": "farm@minecraft.cz",
+      "first_name": "Eva",
+      "last_name": "Zemková",
+>>>>>>> Stashed changes
       "password": "pbkdf2_sha256$600000$test$hashedpassword==",
       "is_staff": false,
       "is_active": true,
       "is_superuser": false,
+<<<<<<< Updated upstream
       "date_joined": "2024-03-15T00:00:00Z",
+=======
+      "date_joined": "2024-03-11T00:00:00Z",
+>>>>>>> Stashed changes
       "groups": [],
       "user_permissions": []
     }
@@ -105,15 +131,26 @@
     "model": "auth.user",
     "pk": 8,
     "fields": {
+<<<<<<< Updated upstream
       "username": "ender_pearl",
       "email": "ender@minecraft.cz",
       "first_name": "Petra",
       "last_name": "Endová",
+=======
+      "username": "nether_knight",
+      "email": "nether@minecraft.cz",
+      "first_name": "Martin",
+      "last_name": "Pekař",
+>>>>>>> Stashed changes
       "password": "pbkdf2_sha256$600000$test$hashedpassword==",
       "is_staff": false,
       "is_active": true,
       "is_superuser": false,
+<<<<<<< Updated upstream
       "date_joined": "2024-04-02T00:00:00Z",
+=======
+      "date_joined": "2024-03-21T00:00:00Z",
+>>>>>>> Stashed changes
       "groups": [],
       "user_permissions": []
     }
@@ -122,10 +159,51 @@
     "model": "auth.user",
     "pk": 9,
     "fields": {
+<<<<<<< Updated upstream
       "username": "cobble_king",
       "email": "cobble@minecraft.cz",
       "first_name": "Jakub",
       "last_name": "Kamenný",
+=======
+      "username": "skeleton_sara",
+      "email": "skeleton@minecraft.cz",
+      "first_name": "Sára",
+      "last_name": "Kostková",
+      "password": "pbkdf2_sha256$600000$test$hashedpassword==",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "date_joined": "2024-03-31T00:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "username": "zombie_jan",
+      "email": "zombie@minecraft.cz",
+      "first_name": "Jan",
+      "last_name": "Mrtvola",
+      "password": "pbkdf2_sha256$600000$test$hashedpassword==",
+      "is_staff": false,
+      "is_active": true,
+      "is_superuser": false,
+      "date_joined": "2024-04-10T00:00:00Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "username": "witch_tereza",
+      "email": "witch@minecraft.cz",
+      "first_name": "Tereza",
+      "last_name": "Čarodějka",
+>>>>>>> Stashed changes
       "password": "pbkdf2_sha256$600000$test$hashedpassword==",
       "is_staff": false,
       "is_active": true,
@@ -136,6 +214,7 @@
     }
   },
   {
+<<<<<<< Updated upstream
     "model": "auth.user",
     "pk": 10,
     "fields": {
@@ -170,11 +249,17 @@
     }
   },
   {
+=======
+>>>>>>> Stashed changes
     "model": "users.profile",
     "pk": 1,
     "fields": {
       "user": 2,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -182,7 +267,11 @@
     "pk": 2,
     "fields": {
       "user": 3,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -190,7 +279,11 @@
     "pk": 3,
     "fields": {
       "user": 4,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -198,7 +291,11 @@
     "pk": 4,
     "fields": {
       "user": 5,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -206,7 +303,11 @@
     "pk": 5,
     "fields": {
       "user": 6,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -214,7 +315,11 @@
     "pk": 6,
     "fields": {
       "user": 7,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -222,7 +327,11 @@
     "pk": 7,
     "fields": {
       "user": 8,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -230,7 +339,11 @@
     "pk": 8,
     "fields": {
       "user": 9,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -238,7 +351,11 @@
     "pk": 9,
     "fields": {
       "user": 10,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
@@ -246,55 +363,90 @@
     "pk": 10,
     "fields": {
       "user": 11,
+<<<<<<< Updated upstream
       "avatar": null
+=======
+      "avatar": ""
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 1,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Mining"
+=======
+      "name": "Mining",
+      "color_class": "text-bg-secondary"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 2,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Farming"
+=======
+      "name": "Farming",
+      "color_class": "text-bg-success"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 3,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Stavění"
+=======
+      "name": "Stavění",
+      "color_class": "text-bg-warning"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 4,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Boj"
+=======
+      "name": "Boj",
+      "color_class": "text-bg-danger"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 5,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Redstone"
+=======
+      "name": "Redstone",
+      "color_class": "text-bg-primary"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.category",
     "pk": 6,
     "fields": {
+<<<<<<< Updated upstream
       "name": "Průzkum"
+=======
+      "name": "Průzkum",
+      "color_class": "text-bg-info"
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.article",
     "pk": 1,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak efektivně těžit diamanty ve verzi 1.20",
       "excerpt": "Nejlepší výška pro těžbu diamantů dnes není Y=12 — zjisti, kde přesně kopat.",
       "content": "<p>Těžba diamantů se v novějších verzích Minecraftu výrazně změnila. Pokud stále kopete na úrovni Y=12, přicházíte o spoustu drahocenných kamenů.</p>\n<h3>Optimální výška pro těžbu</h3>\n<p>Od verze 1.18 se distribuce rud kompletně přepracovala. Diamanty se nyní nejčastěji vyskytují kolem úrovně <strong>Y=-58</strong>. Čím hlouběji jdete, tím větší šance — ale pozor na lávu.</p>\n<h3>Technika strip miningu</h3>\n<p>Strip mining zůstává nejefektivnější metodou. Postup je jednoduchý:</p>\n<ul>\n<li>Vykopejte hlavní chodbu ve směru jedné osy</li>\n<li>Každé dva bloky odbočte kolmo o délce 20 bloků</li>\n<li>Opakujte na obě strany</li>\n</ul>\n<p>Tímto způsobem prokoukáte maximální plochu při minimálním počtu zásahů krumpáčem.</p>\n<h3>Enchantmenty, které musíte mít</h3>\n<p>Na krumpáč si vždy dejte <strong>Fortune III</strong> — z jednoho diamantového bloku dostanete průměrně 2,2 diamantů místo jednoho. Efficiency IV nebo V pak zajistí, že těžba bude rychlá a příjemná.</p>\n<p>Nezapomínejte s sebou brát vždy dostatek pochodní, jídla a prázdné truhly na přebytečný materiál.</p>",
@@ -313,12 +465,22 @@
         5,
         9
       ]
+=======
+      "title": "Jak najít diamanty v roce 2024",
+      "excerpt": "Kompletní průvodce těžbou diamantů po updatu Caves & Cliffs. Zjistíš, kde kopat a jak na to.",
+      "content": "<h3>Úvod do tématu: Jak najít diamanty v roce 2024</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Jak+najít+diamanty+v+roce+2024\" alt=\"Jak najít diamanty v roce 2024\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-08T00:00:00Z",
+      "author": 2,
+      "category": 1,
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.article",
     "pk": 2,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Průvodce těžbou Ancient Debris v Netheru",
       "excerpt": "Ancient Debris je vzácnější než diamanty — ale s správnou taktikou ho najdete překvapivě rychle.",
       "content": "<p>Netheritová výbava je v současném Minecraftu absolutní špičkou. Ale dostat se k ní vyžaduje odvahu — a správnou taktiku v Netheru.</p>\n<h3>Kde Ancient Debris hledat</h3>\n<p>Ancient Debris se generuje výhradně v Netheru mezi úrovněmi <strong>Y=8 až Y=22</strong>. Největší koncentrace je kolem Y=15. Nikdy nevyskytuje na povrchu — vždy je obklopený bloky.</p>\n<h3>Metoda s TNT</h3>\n<p>Nejrychlejší způsob těžby je explozivní. Potřebujete:</p>\n<ul>\n<li>Velké množství TNT</li>\n<li>Odpalovací systém z redstone nebo křesadla</li>\n<li>Netheritový (nebo aspoň diamantový) krumpáč pro sběr</li>\n</ul>\n<p>Vykopejte tunel na Y=15, každých 5 bloků umístěte TNT do stropu a odpálte. Exploze odhalí velký objem bloků najednou a Ancient Debris přežije výbuch.</p>\n<h3>Bezpečnost na prvním místě</h3>\n<p>Nether je nebezpečný. Nikdy nechoďte bez <strong>ohnivzdorných lektvarů</strong> — pád do lávy s plným inventářem je ta nejhorší zkušenost v Minecraftu.</p>",
@@ -331,6 +493,16 @@
         5,
         10,
         6
+=======
+      "title": "Strip mining vs. Branch mining: Co se víc vyplatí?",
+      "excerpt": "Porovnání dvou nejpopulárnějších metod těžby. Testy, statistiky a doporučení pro různé situace.",
+      "content": "<h3>Úvod do tématu: Strip mining vs. Branch mining: Co se víc vyplatí?</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Strip+mining+vs.+Branch+mining:+Co+se+víc+vyplatí?\" alt=\"Strip mining vs. Branch mining: Co se víc vyplatí?\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-10T00:00:00Z",
+      "author": 3,
+      "category": 1,
+      "likes": [
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -338,6 +510,7 @@
     "model": "blog.article",
     "pk": 3,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak postavit automatickou farmu na železo",
       "excerpt": "Železo je základ všeho — a s tímto designem ho budete mít víc, než kdy spotřebujete.",
       "content": "<p>Manuální těžba železa je zdlouhavá. Automatická farma to změní — navždy.</p>\n<h3>Princip fungování</h3>\n<p>Vesničané a golemi jsou klíčem. Pokud umístíte vesničany do speciálního prostoru, začnou se přirozeně generovat Iron Golemi. Ti pak padají do sběrného systému, kde jsou automaticky zpracováni.</p>\n<h3>Co budete potřebovat</h3>\n<ul>\n<li>Minimálně 3 vesničany (ideálně 10+)</li>\n<li>Postelé pro každého vesničana</li>\n<li>Pracovní bloky</li>\n<li>Systém z vody a hopperů</li>\n<li>Truhly pro ukládání</li>\n</ul>\n<h3>Výstup farmy</h3>\n<p>Správně postavená farma produkuje <strong>30–40 ingotů za hodinu</strong> při využití 10 vesničanů. S více vesničany výstup lineárně roste.</p>\n<p>Nezapomínejte farmu postavit daleko od jiných vesnic, jinak golemi odejdou bránit ty.</p>",
@@ -354,6 +527,23 @@
         9,
         11,
         3
+=======
+      "title": "Netherite: Od piglin bastionů po plné zbroje",
+      "excerpt": "Vše o získání Ancient Debris, smithing šablon a craftu netheritového vybavení.",
+      "content": "<h3>Úvod do tématu: Netherite: Od piglin bastionů po plné zbroje</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Netherite:+Od+piglin+bastionů+po+plné+zbroje\" alt=\"Netherite: Od piglin bastionů po plné zbroje\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-15T00:00:00Z",
+      "author": 4,
+      "category": 1,
+      "likes": [
+        10,
+        3,
+        8,
+        2,
+        11,
+        6,
+        5,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -361,6 +551,7 @@
     "model": "blog.article",
     "pk": 4,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Tajemství štěrku a jak ho využít",
       "excerpt": "Štěrk většina hráčů zahazuje. Ale zkušení survivalisté ho milují — a tady je proč.",
       "content": "<p>Štěrk je jeden z nejpodceňovanějších bloků v Minecraftu. Pojďme to napravit.</p>\n<h3>Výroba šípů ve velkém</h3>\n<p>Štěrk se dá propláchnout v truhle s vodou (nebo ručně) na <strong>pazourek</strong>. Z pazourku pak děláte špičky šípů — a šípy jsou v pozdní hře klíčové pro boj s Phantomy nebo obranu základny.</p>\n<h3>Automatická pazourková farma</h3>\n<p>Postavte sloupec štěrku 20 bloků vysoký nad hopperem. Nechte ho padat — gravitace ho přesune dolů, kde ho hopper sbírá. Použijte dispenser s vodou pro automatické proplachování.</p>\n<h3>Stavební materiál</h3>\n<p>Štěrk má jiný vzhled než oblázek a výborně se hodí pro naturální cesty a záhony kolem budov. Zkuste kombinovat se zemí a hlínou pro realistický terén.</p>",
@@ -376,6 +567,16 @@
         9,
         11,
         10,
+=======
+      "title": "Automatická pšeničná farma krok za krokem",
+      "excerpt": "Postav si plně automatizovanou farmu na pšenici bez nutnosti Redstone. Jednoduchý návod pro každého.",
+      "content": "<h3>Úvod do tématu: Automatická pšeničná farma krok za krokem</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>farmaření</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Automatická+pšeničná+farma+krok+za+krokem\" alt=\"Automatická pšeničná farma krok za krokem\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>úrodu</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>farmaření</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>úrodu</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>farmaření</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-18T00:00:00Z",
+      "author": 5,
+      "category": 2,
+      "likes": [
+        9,
+>>>>>>> Stashed changes
         8
       ]
     }
@@ -384,6 +585,7 @@
     "model": "blog.article",
     "pk": 5,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Kde najít Amethyst Geodes a proč je chcete",
       "excerpt": "Ametystové geódy jsou krásné i užitečné — a víme přesně, kde je hledat.",
       "content": "<p>Amethyst Geody jsou jedním z nejzajímavějších přídavků moderního Minecraftu. Skrývají v sobě unikátní materiál a bloky.</p>\n<h3>Kde se geódy generují</h3>\n<p>Ametystové geódy se vyskytují mezi úrovněmi <strong>Y=-58 a Y=30</strong>. Jsou nejčastější v kamenném prostředí a lze je poznat podle vnější vrstvy Smooth Basalt a střední vrstvy Calcite.</p>\n<h3>K čemu ametyst použít</h3>\n<ul>\n<li><strong>Dalekohled</strong> — 2 měděné ingoty + 1 ametystový střep</li>\n<li><strong>Tinted Glass</strong> — blokuje světlo, ale lze přes něj vidět</li>\n<li><strong>Dekorace</strong> — ametystové bloky mají unikátní zvuk při chůzi</li>\n</ul>\n<h3>Jak správně těžit</h3>\n<p>Ametystové shluky rostou na Budding Amethyst blocích. Tyto bloky <strong>nelze přesunout</strong> — ani Silktouch krumpáčem. Sklízejte pouze zralé shluky a nechte základ růst dál.</p>",
@@ -417,11 +619,27 @@
         3,
         5,
         2
+=======
+      "title": "Mob farm v overwordu: Maximální výkon XP",
+      "excerpt": "Jak vybudovat efektivní mob spawner farmu pro rychlý XP a looty. Ideální pro mid-game.",
+      "content": "<h3>Úvod do tématu: Mob farm v overwordu: Maximální výkon XP</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>farmaření</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Mob+farm+v+overwordu:+Maximální+výkon+XP\" alt=\"Mob farm v overwordu: Maximální výkon XP\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>úrodu</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>farmaření</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>úrodu</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>farmaření</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-21T00:00:00Z",
+      "author": 6,
+      "category": 2,
+      "likes": [
+        11,
+        10,
+        6,
+        8,
+        9,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
   {
     "model": "blog.article",
+<<<<<<< Updated upstream
     "pk": 7,
     "fields": {
       "title": "Obsidián — jak ho těžit efektivně a bez zbytečných smrtí",
@@ -440,6 +658,31 @@
         3,
         9,
         11
+=======
+    "pk": 6,
+    "fields": {
+      "title": "Farma na cukrovou třtinu s Redstone",
+      "excerpt": "Kompaktní, plně automatická farma na cukrovou třtinu. Zásobí tě papírem na celé hry.",
+      "content": "<h3>Úvod do tématu: Farma na cukrovou třtinu s Redstone</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>farmaření</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Farma+na+cukrovou+třtinu+s+Redstone\" alt=\"Farma na cukrovou třtinu s Redstone\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>úrodu</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>farmaření</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>úrodu</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>farmaření</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-02-27T00:00:00Z",
+      "author": 7,
+      "category": 2,
+      "likes": []
+    }
+  },
+  {
+    "model": "blog.article",
+    "pk": 7,
+    "fields": {
+      "title": "Moderní dům ze skla a kamene: Tutorial",
+      "excerpt": "Postav impozantní moderní dům s panoramatickým výhledem. Obsahuje plán, seznam materiálů a postup.",
+      "content": "<h3>Úvod do tématu: Moderní dům ze skla a kamene: Tutorial</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Moderní+dům+ze+skla+a+kamene:+Tutorial\" alt=\"Moderní dům ze skla a kamene: Tutorial\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-02T00:00:00Z",
+      "author": 2,
+      "category": 3,
+      "likes": [
+        9
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -447,6 +690,7 @@
     "model": "blog.article",
     "pk": 8,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak maximalizovat výnos z Fortune enchantmentu",
       "excerpt": "Fortune III je nejcennější enchantment pro těžbu — ale většina hráčů ho nepoužívá správně.",
       "content": "<p>Fortune je jeden z nejcennějších enchantmentů v Minecraftu. Ale jeho efekt závisí na materiálu, který těžíte.</p>\n<h3>Na co Fortune funguje</h3>\n<p>Fortune zvyšuje výnos u těchto rud a bloků:</p>\n<ul>\n<li>Diamanty, smaragdy, rubíny — průměrně 2,2× při Fortune III</li>\n<li>Lapis Lazuli — průměrně 6,1 kusů místo 4–9</li>\n<li>Redstone — průměrně 6 kusů místo 4–5</li>\n<li>Hlína, štěrk — vyšší šance na pazourek a semínka</li>\n</ul>\n<h3>Na co Fortune NEFUNGUJE</h3>\n<p>Fortune nijak neovlivňuje výnos ze <strong>zlaté, železné ani měděné rudy</strong> — ty je nutné přetavit v peci a Fortune nepomáhá. Pro tyto rudy použijte Silk Touch a přetavte je normálně.</p>\n<h3>Strategie pro endgame těžbu</h3>\n<p>Mějte vždy dva krumpáče — jeden s Fortune III pro cenné rudy a jeden se Silk Touch pro bloky, které chcete přemístit celé.</p>",
@@ -460,6 +704,20 @@
         5,
         7,
         4
+=======
+      "title": "Středověký hrad pro pokročilé stavitele",
+      "excerpt": "Detailní průvodce stavbou autentického hradu s věžemi, příkopem a trůnním sálem.",
+      "content": "<h3>Úvod do tématu: Středověký hrad pro pokročilé stavitele</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Středověký+hrad+pro+pokročilé+stavitele\" alt=\"Středověký hrad pro pokročilé stavitele\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-06T00:00:00Z",
+      "author": 8,
+      "category": 3,
+      "likes": [
+        10,
+        6,
+        11,
+        3,
+        9
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -467,6 +725,7 @@
     "model": "blog.article",
     "pk": 9,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Speedrun mining — jak získat plnou diamantovou výbavu za hodinu",
       "excerpt": "Speedrunneři mají svá tajemství. Tady jsou ta nejdůležitější pro těžbu.",
       "content": "<p>Chcete dosáhnout plné diamantové výbavy co nejrychleji? Existuje na to ověřený postup.</p>\n<h3>První kroky — neztrácejte čas</h3>\n<p>Hned na začátku hry se vydejte do nejbližšího lesa. Sebeřte dřevo, vyrobte pracovní stůl a kamenné nástroje — to vše do 2 minut. Neztrácejte čas budováním základny.</p>\n<h3>Přímá cesta dolů</h3>\n<p>Vykopejte šachtu ve tvaru schodů (nikdy rovnou dolů — riziko pádu do lávy) přímo na Y=-58. Ignorujte po cestě vše kromě uhlí pro pochodně.</p>\n<h3>Strip mining v malém měřítku</h3>\n<p>Na Y=-58 vykopejte 5 chodeb po 30 blocích na každou stranu. Statisticky narazíte na <strong>alespoň 15–20 diamantů</strong> — dost na celou sadu výbavy plus enchanting stůl.</p>\n<p>Celý postup by měl trvat méně než hodinu herního času — ideálně 30–40 minut při troše štěstí.</p>",
@@ -480,6 +739,23 @@
         10,
         4,
         2
+=======
+      "title": "Podzemní základna: Survival + styl",
+      "excerpt": "Jak proměnit špinavou kobku v luxusní podzemní sídlo. Tipy na osvětlení, rozvržení a dekorace.",
+      "content": "<h3>Úvod do tématu: Podzemní základna: Survival + styl</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Podzemní+základna:+Survival+++styl\" alt=\"Podzemní základna: Survival + styl\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-10T00:00:00Z",
+      "author": 9,
+      "category": 3,
+      "likes": [
+        5,
+        8,
+        2,
+        11,
+        6,
+        10,
+        9,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -487,6 +763,7 @@
     "model": "blog.article",
     "pk": 10,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak postavit automatickou farmu na pšenici",
       "excerpt": "Pšenice, mrkev nebo brambory — tato farma funguje na vše a zvládne ji i začátečník.",
       "content": "<p>Automatická farma na plodiny je jeden z prvních projektů, které byste měli v každé Minecraft hře postavit. Zajistí vám nekonečné zásoby jídla bez práce.</p>\n<h3>Princip automatické farmy</h3>\n<p>Systém využívá vodu pro sklizeň. Nad políčkem umístíte dispenser naplněný vodními vědry — ten při aktivaci zalije celé políčko, sklizne úrodu a voda ji spláchne do hopperů.</p>\n<h3>Materiály pro základní farmu 9×9</h3>\n<ul>\n<li>Hlína (81 bloků)</li>\n<li>Hopper (minimálně 1, ideálně 2–3)</li>\n<li>Dispenser (1)</li>\n<li>Redstone, páčka nebo timer</li>\n<li>Truhla pro ukládání</li>\n</ul>\n<h3>Osvětlení je klíčové</h3>\n<p>Plodiny rostou pouze při dostatečném světle. Úroveň světla musí být <strong>minimálně 9</strong>. Přidejte pochodně nebo glow stone pod strop nad farmou.</p>\n<p>S majakem a efektem Haste II roste pšenice rychleji — ale to je luxus pozdní hry.</p>",
@@ -502,6 +779,17 @@
         7,
         11,
         6,
+=======
+      "title": "Jak přežít první noc v Hardcoru",
+      "excerpt": "Hardcore mode = jeden život. Naučíš se přežít první noc a vybudovat bezpečné zázemí bez panikaření.",
+      "content": "<h3>Úvod do tématu: Jak přežít první noc v Hardcoru</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>boj</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Jak+přežít+první+noc+v+Hardcoru\" alt=\"Jak přežít první noc v Hardcoru\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>zbroj</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>boj</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>zbroj</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>boj</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-12T00:00:00Z",
+      "author": 10,
+      "category": 4,
+      "likes": [
+        7,
+        11,
+>>>>>>> Stashed changes
         2
       ]
     }
@@ -510,6 +798,7 @@
     "model": "blog.article",
     "pk": 11,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Melounová a dýňová farma — pasivní příjem jídla",
       "excerpt": "Melouny a dýně jsou skvělé jídlo i obchodní komodita. Postavte si automatickou farmu.",
       "content": "<p>Melouny a dýně jsou zvláštní plodiny — nerostou přímo ze semínek, ale vedle nich. To je dělá ideálními pro automatizaci.</p>\n<h3>Jak melouny a dýně rostou</h3>\n<p>Semínko zasadíte do hlíny, vyroste stonek a ten pak vytvoří plod na sousedním bloku. Plod lze sklízet opakovaně — stonek zůstane a vytvoří další.</p>\n<h3>Design automatické farmy</h3>\n<p>Optimální layout je střídání řádků: semínko — mezera pro plod — observer — piston. Observer detekuje růst plodu a aktivuje piston, který ho sklizne. Hopper pod sbírá úrodu.</p>\n<h3>Výnosnost farmy</h3>\n<p>Jedna řada 10 stonků produkuje přibližně <strong>1 meloun nebo dýni každých 5–10 minut</strong>. Zvětšením farmy dosáhnete pasivního příjmu stovek plodů za herní den.</p>\n<p>Melouny jsou navíc výborné pro obchod s vesničany — zemědělec je kupuje za velmi výhodný kurz.</p>",
@@ -521,6 +810,23 @@
         5,
         11,
         8
+=======
+      "title": "Warden: Strategie přežití v Deep Dark",
+      "excerpt": "Warden je slepý, ale slyší vše. Přinášíme tipy jak projít Ancient City bez vzbuzení Wardena.",
+      "content": "<h3>Úvod do tématu: Warden: Strategie přežití v Deep Dark</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>boj</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Warden:+Strategie+přežití+v+Deep+Dark\" alt=\"Warden: Strategie přežití v Deep Dark\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>zbroj</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>boj</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>zbroj</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>boj</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-17T00:00:00Z",
+      "author": 3,
+      "category": 4,
+      "likes": [
+        6,
+        8,
+        10,
+        7,
+        4,
+        3,
+        2,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -528,6 +834,7 @@
     "model": "blog.article",
     "pk": 12,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Cukrová třtina a automatická papírovna",
       "excerpt": "Bez papíru není enchanting. Bez enchantingu není endgame. Tato farma to vše vyřeší.",
       "content": "<p>Papír je jednou z nejdůležitějších komodit v Minecraftu — potřebujete ho na mapy, knihy, enchanting a obchod s vesničany.</p>\n<h3>Kde cukrová třtina roste</h3>\n<p>Cukrová třtina potřebuje:</p>\n<ul>\n<li>Blok hlíny, písku nebo červeného písku</li>\n<li>Přímý kontakt s vodou na stejné úrovni</li>\n<li>Musí být na povrchu (nebo pod světlem)</li>\n</ul>\n<h3>Automatizace pomocí Observeru</h3>\n<p>Observer umístěný vedle třtiny detekuje, když vyroste třetí blok. V tu chvíli aktivuje piston, který odlomí horní část. Spodní dva bloky zůstanou — třtina začne znovu růst.</p>\n<h3>Zero-tick farma (starší verze)</h3>\n<p>Ve verzích před 1.16 existovala technika zero-tick, která třtinu nechala okamžitě dorůst. V novějších verzích je opravena — farmy s observerem jsou nyní standardem.</p>",
@@ -539,6 +846,18 @@
         6,
         3,
         9
+=======
+      "title": "PvP tipy pro Bedrock i Java: Kriticaly a combo",
+      "excerpt": "Zvládni základy PvP — timing úderů, strafování, štít a kritické údery. Pro Java i Bedrock.",
+      "content": "<h3>Úvod do tématu: PvP tipy pro Bedrock i Java: Kriticaly a combo</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>boj</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=PvP+tipy+pro+Bedrock+i+Java:+Kriticaly+a+combo\" alt=\"PvP tipy pro Bedrock i Java: Kriticaly a combo\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>zbroj</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>boj</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>zbroj</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>boj</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-22T00:00:00Z",
+      "author": 4,
+      "category": 4,
+      "likes": [
+        10,
+        11,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -546,6 +865,7 @@
     "model": "blog.article",
     "pk": 13,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak chovat dobytek efektivně",
       "excerpt": "Krávy, prasata, slepice nebo ovce — chov zvířat v Minecraftu má svá pravidla.",
       "content": "<p>Chov zvířat je základní součástí každého survival světa. Správně nastavený ranch vám zajistí maso, kůži, vlnu a vejce bez neustálého lovu.</p>\n<h3>Základní pravidla chovu</h3>\n<p>Zvířata se množí pomocí specifického jídla:</p>\n<ul>\n<li>Krávy a ovce — pšenice</li>\n<li>Prasata — mrkev, brambor nebo řepa</li>\n<li>Slepice — semínka (jakákoliv)</li>\n</ul>\n<h3>Optimální velikost výběhu</h3>\n<p>Držte maximálně <strong>20 zvířat stejného druhu</strong> na jednom místě. Více způsobuje lag a zvířata se přestávají množit, pokud je v daném prostoru přes 20 kusů.</p>\n<h3>Automatická jatka</h3>\n<p>Automatická jatka využívají lávový nůž — lávový blok zavěšený jeden blok nad zemí. Zvířata projdou pod ním, ale dostanou škodu. Přidejte hoppers pod pro automatický sběr drops.</p>",
@@ -559,6 +879,23 @@
         10,
         11,
         8
+=======
+      "title": "Automatické dveře s Redstone: 3 různé designy",
+      "excerpt": "Od jednoduchých pistón dveří po složité 3x3 portálové dveře. Každý design je vysvětlený do detailu.",
+      "content": "<h3>Úvod do tématu: Automatické dveře s Redstone: 3 různé designy</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>redstone</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Automatické+dveře+s+Redstone:+3+různé+designy\" alt=\"Automatické dveře s Redstone: 3 různé designy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>obvody</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>redstone</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>obvody</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>redstone</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-25T00:00:00Z",
+      "author": 5,
+      "category": 5,
+      "likes": [
+        3,
+        7,
+        10,
+        8,
+        6,
+        4,
+        5,
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -566,6 +903,7 @@
     "model": "blog.article",
     "pk": 14,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Včelí farma — med a honeycomb pro každého",
       "excerpt": "Včely jsou roztomilé a nesmírně užitečné. Naučte se je chovat a využít naplno.",
       "content": "<p>Včely přišly do Minecraftu v roce 2019 a přinesly s sebou med, honeycomb a nový typ farmingu.</p>\n<h3>Kde najít včely</h3>\n<p>Včelí hnízda se přirozeně generují v lesích — nejčastěji na stromech v Flower Forest, Plains a Sunflower Plains biomech. Každé hnízdo obsahuje <strong>1–3 včely</strong>.</p>\n<h3>Jak přenést hnízdo bez ztráty včel</h3>\n<p>Použijte Silk Touch nástroj — pouze tak seberete celé hnízdo i s včelami uvnitř. Nikdy nesbírejte hnízdo bez Silk Touch, včely se rozletí a útočí.</p>\n<h3>Výroba Honeycomb a medu</h3>\n<p>Plné hnízdo lze sklidit dvěma způsoby: Shears (nůžky) pro honeycomb, nebo lahvičku pro med. Umístěte pod hnízdo dispenser s nůžkami nebo lahvičkami pro automatizaci.</p>\n<p>Honeycomb se používá na voskové bloky a na ochranu mědi před oxidací.</p>",
@@ -576,6 +914,19 @@
         6,
         4,
         5
+=======
+      "title": "Sorter na itemy: Nikdy víc nepřeplněný chest",
+      "excerpt": "Postav automatický třídič itemů. Každý materiál půjde do svého chestu. Velký projekt, velká odměna.",
+      "content": "<h3>Úvod do tématu: Sorter na itemy: Nikdy víc nepřeplněný chest</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>redstone</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Sorter+na+itemy:+Nikdy+víc+nepřeplněný+chest\" alt=\"Sorter na itemy: Nikdy víc nepřeplněný chest\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>obvody</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>redstone</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>obvody</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>redstone</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-03-30T00:00:00Z",
+      "author": 6,
+      "category": 5,
+      "likes": [
+        7,
+        4,
+        8,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -583,6 +934,7 @@
     "model": "blog.article",
     "pk": 15,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Kompostéry a jak je zapojit do farmingu",
       "excerpt": "Kompostér je malý blok s velkým potenciálem. Většina hráčů ho ignoruje — chyba.",
       "content": "<p>Kompostér je jeden z nejpodceňovanějších bloků v Minecraftu. Přeměňuje přebytečné organické materiály na kostní moučku.</p>\n<h3>Co kompostér přijímá</h3>\n<p>Do kompostéru lze vhodit téměř jakýkoliv organický materiál:</p>\n<ul>\n<li>Semínka — 30% šance na přidání vrstvy</li>\n<li>Listí, tráva — 30% šance</li>\n<li>Jídlo jako jablka nebo mrkev — 65% šance</li>\n<li>Pečené jídlo nebo koláče — 85–100% šance</li>\n</ul>\n<h3>Integrace s automatickou farmou</h3>\n<p>Přebytek semen a listí z vaší farmy přesměrujte hopperem do kompostéru. Z kompostéru pak hopper sbírá hotovou kostní moučku. Ta urychluje růst plodin — uzavřeli jste efektivní cyklus.</p>",
@@ -595,6 +947,22 @@
         8,
         11,
         5,
+=======
+      "title": "Redstone hodiny a pulse extendery pro začátečníky",
+      "excerpt": "Vysvětlení základních Redstone obvodů — hodiny, pulzy, NOT gate a AND gate s praktickými příklady.",
+      "content": "<h3>Úvod do tématu: Redstone hodiny a pulse extendery pro začátečníky</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>redstone</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Redstone+hodiny+a+pulse+extendery+pro+začátečníky\" alt=\"Redstone hodiny a pulse extendery pro začátečníky\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>obvody</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>redstone</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>obvody</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>redstone</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-04T00:00:00Z",
+      "author": 7,
+      "category": 5,
+      "likes": [
+        5,
+        2,
+        9,
+        3,
+        11,
+        6,
+        7,
+>>>>>>> Stashed changes
         4
       ]
     }
@@ -603,6 +971,7 @@
     "model": "blog.article",
     "pk": 16,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Rybářská farma — AFK metoda pro rychlý XP a loot",
       "excerpt": "AFK rybářská farma je nejjednodušší způsob, jak získat enchantované knihy a XP.",
       "content": "<p>AFK rybářská farma je kontroverzní, ale nesmírně efektivní. Za hodinu AFK získáte stovky XP a desítky enchantovaných knih.</p>\n<h3>Jak farma funguje</h3>\n<p>Princip je jednoduchý: rybářský prut ve vodě s bublinkovou kolonou urychluje chytání. Při chycení ryby se aktivuje tripwire hook, který přes redstone resetuje prut. Opakuje se automaticky.</p>\n<h3>Obsah lootu</h3>\n<p>AFK rybářská farma neposkytuje jen ryby — z lootu dostáváte:</p>\n<ul>\n<li>Enchantované rybářské pruty a zbroj (Treasure kategorie)</li>\n<li>Enchantované knihy — včetně vzácných jako Mending</li>\n<li>Tripwire hooky, sedla, jmenné štítky</li>\n</ul>\n<h3>Je to stále ve hře?</h3>\n<p>V Java Edition 1.16+ se mechanika rybaření změnila — farma stále funguje, ale vyžaduje konkrétní design s otevřeným nebem nebo přesným světelným nastavením. Ověřte aktuální design pro vaši verzi.</p>",
@@ -613,6 +982,18 @@
         4,
         10,
         9
+=======
+      "title": "Nether: Přežití a navigace bez mapy",
+      "excerpt": "Nether je nebezpečný labyrint. Naučíš se orientovat, označovat cesty a přežít bez ztráty portálu.",
+      "content": "<h3>Úvod do tématu: Nether: Přežití a navigace bez mapy</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Nether:+Přežití+a+navigace+bez+mapy\" alt=\"Nether: Přežití a navigace bez mapy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-07T00:00:00Z",
+      "author": 8,
+      "category": 6,
+      "likes": [
+        10,
+        7,
+        5
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -620,6 +1001,7 @@
     "model": "blog.article",
     "pk": 17,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Nether farma — jak pěstovat Nether Wart",
       "excerpt": "Nether Wart je základ lektvarnictví. Víte, jak ho efektivně pěstovat a sbírat?",
       "content": "<p>Nether Wart je jediná plodina, která roste výhradně v Netheru — nebo alespoň potřebuje duši písku pro klíčení.</p>\n<h3>Kde Nether Wart najít</h3>\n<p>Nether Wart roste přirozeně v <strong>Nether Fortress</strong> — velkých pevnostech z netherbricku. Hledejte červené trsovité rostliny na duší písku podél schodišť pevnosti.</p>\n<h3>Farma mimo Nether</h3>\n<p>Dobrá zpráva: Nether Wart lze pěstovat i v Overworld, pokud použijete duší písek. Nepotřebuje světlo, nepotřebuje vodu — jen duší písek a trpělivost.</p>\n<h3>Jak zrychlit pěstování</h3>\n<p>Nether Wart <strong>nereaguje na kostní moučku</strong> — nelze ho urychlovat. Jediná proměnná je čas. Velká farma (20×20 bloků) produkuje dostatek Nether Wart pro stovky lektvarů za herní den.</p>",
@@ -629,6 +1011,20 @@
       "likes": [
         2,
         3
+=======
+      "title": "End expedition: Jak zabít Endragona poprvé",
+      "excerpt": "Krok za krokem průvodce závěrečným bossem. Příprava vybavení, taktika na pilíře a finální útok.",
+      "content": "<h3>Úvod do tématu: End expedition: Jak zabít Endragona poprvé</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=End+expedition:+Jak+zabít+Endragona+poprvé\" alt=\"End expedition: Jak zabít Endragona poprvé\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-12T00:00:00Z",
+      "author": 9,
+      "category": 6,
+      "likes": [
+        6,
+        8,
+        5,
+        9,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -636,6 +1032,7 @@
     "model": "blog.article",
     "pk": 18,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak postavit středověký hrad krok za krokem",
       "excerpt": "Každý hráč chce mít hrad. Ale málokdo ví, jak začít. Tento průvodce vás provede vším.",
       "content": "<p>Středověký hrad je jeden z nejambicióznějších projektů v Minecraftu. Ale pokud budete postupovat systematicky, zvládnete ho i jako začátečník.</p>\n<h3>Výběr lokace</h3>\n<p>Hrad potřebuje dramatickou lokaci. Ideální jsou:</p>\n<ul>\n<li>Vrchol kopce nebo hory pro přirozené opevnění</li>\n<li>Ostrov nebo poloostrov pro vodní příkop</li>\n<li>Útesové formace pro vertikální efekt</li>\n</ul>\n<h3>Materiály pro středověký vzhled</h3>\n<p>Vyhněte se čistým blokům jednoho druhu — vypadá to fádně. Kombinujte:</p>\n<ul>\n<li>Cobblestone, Stone Bricks a Mossy Stone Bricks pro zdi</li>\n<li>Dark Oak nebo Spruce pro trámy a interiér</li>\n<li>Slate nebo Deepslate pro kontrast</li>\n</ul>\n<h3>Začněte vnějšími zdmi</h3>\n<p>Nejprve vybudujte obvod — hradní zdi výšky 12–15 bloků s baštami v rozích. Teprve potom plňte interiér budovami. Nikdy nezačínejte zevnitř!</p>",
@@ -647,12 +1044,22 @@
         8,
         3
       ]
+=======
+      "title": "Oceánové monumenty: Loot, guardian farma a přežití",
+      "excerpt": "Průvodce podmořskými dungeony — jak se nadechnout pod vodou, porazit Elder Guardiany a vyrabovat monument.",
+      "content": "<h3>Úvod do tématu: Oceánové monumenty: Loot, guardian farma a přežití</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Oceánové+monumenty:+Loot,+guardian+farma+a+přežití\" alt=\"Oceánové monumenty: Loot, guardian farma a přežití\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-14T00:00:00Z",
+      "author": 10,
+      "category": 6,
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.article",
     "pk": 19,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Japonský dům v Minecraftu — tutoriál",
       "excerpt": "Japonská architektura v Minecraftu je překrásná. Naučte se postavit tradiční japonský dům.",
       "content": "<p>Japonský styl patří k nejkrásnějším architekturám, které lze v Minecraftu vytvořit. Charakterizují ho specifické střechy, dřevěné nosníky a symetrie.</p>\n<h3>Klíčové prvky japonského stylu</h3>\n<ul>\n<li>Zakřivené střechy z tmavých bloků (Dark Oak Stairs/Slabs)</li>\n<li>Červené nebo černé detaily — Crimson nebo Warped bloky z Netheru</li>\n<li>Vyvýšený základ domu na kamenné patce</li>\n<li>Symetrie a čistota tvarů</li>\n</ul>\n<h3>Střecha — nejdůležitější část</h3>\n<p>Typická japonská střecha má ohnuté okraje. V Minecraftu to simulujeme tak, že každou vrstvu střechy posuneme o blok ven a dolů. Výsledek vypadá jako charakteristické okapové přesahy.</p>\n<h3>Interiér</h3>\n<p>Japonský interiér je minimalistický. Používejte:</p>\n<ul>\n<li>Tatami — světlé bloky jako Birch Planks nebo Sand</li>\n<li>Shoji stěny — Glass Pane v dřevěném rámu</li>\n<li>Nízký nábytek z trapdoorů a slabů</li>\n</ul>",
@@ -664,6 +1071,18 @@
         9,
         6,
         10,
+=======
+      "title": "10 věcí, které jsem nevěděl po 100 hodinách hraní",
+      "excerpt": "Překvapivé mechaniky a triky, které většina hráčů nezná ani po stovkách hodin ve hře.",
+      "content": "<h3>Úvod do tématu: 10 věcí, které jsem nevěděl po 100 hodinách hraní</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=10+věcí,+které+jsem+nevěděl+po+100+hodinách+hraní\" alt=\"10 věcí, které jsem nevěděl po 100 hodinách hraní\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-18T00:00:00Z",
+      "author": 2,
+      "category": 1,
+      "likes": [
+        4,
+        6,
+        11,
+>>>>>>> Stashed changes
         2
       ]
     }
@@ -672,6 +1091,7 @@
     "model": "blog.article",
     "pk": 20,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Moderní vila — design pro rok 2024",
       "excerpt": "Minimalistická moderní architektura je trendy. Tady je kompletní návod na moderní vilu.",
       "content": "<p>Moderní architektura v Minecraftu je o čistých liniích, velkých oknech a zajímavých materiálech. Žádné gotické věžičky — čistá geometrie.</p>\n<h3>Materiálová paleta</h3>\n<p>Pro moderní vilu použijte:</p>\n<ul>\n<li><strong>Beton</strong> (White nebo Light Gray) jako hlavní materiál zdí</li>\n<li><strong>Glass</strong> pro velká panoramatická okna</li>\n<li><strong>Dark Oak nebo Spruce</strong> jako dřevěné akcenty</li>\n<li><strong>Quartz Slab</strong> pro podlahy a detaily</li>\n</ul>\n<h3>Plochá střecha</h3>\n<p>Moderní budovy mají plochou střechu. Tu přeměňte v terasu — přidejte lavičky (trapdoory), girlandy světel (řetězy) a bazén z průhledného skla.</p>\n<h3>Osvětlení</h3>\n<p>Schované světelné zdroje jsou znakem moderního designu. Dejte Sea Lantern nebo Shroomlight pod skleněné podlahy nebo za Glass Pane pro efekt nepřímého osvětlení.</p>",
@@ -681,6 +1101,17 @@
       "likes": [
         10,
         6
+=======
+      "title": "Začínáš v Minecraftu? Přečti toto jako první",
+      "excerpt": "Kompletní průvodce pro nováčky — co dělat v prvních minutách, jak přežít a jak se rozvíjet.",
+      "content": "<h3>Úvod do tématu: Začínáš v Minecraftu? Přečti toto jako první</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Začínáš+v+Minecraftu?+Přečti+toto+jako+první\" alt=\"Začínáš v Minecraftu? Přečti toto jako první\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-21T00:00:00Z",
+      "author": 3,
+      "category": 3,
+      "likes": [
+        7,
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -688,6 +1119,7 @@
     "model": "blog.article",
     "pk": 21,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak postavit podzemní základnu",
       "excerpt": "Podzemní základna je nenápadná, bezpečná a může být nádherná. Zde je kompletní průvodce.",
       "content": "<p>Podzemní základna je snem mnoha hráčů. Nabízí přirozené opevnění a na povrchu ji vůbec není vidět.</p>\n<h3>Kde začít kopat</h3>\n<p>Hledejte přirozenou jeskyni nebo útesy — výkop od nuly je zdlouhavý. Ideální je najít velkou jeskyni a tu přebudovat. Začněte s prostorem alespoň <strong>20×20×10 bloků</strong>.</p>\n<h3>Osvětlení v podzemí</h3>\n<p>Bez správného osvětlení bude základna temná a spawnují se v ní moby. Použijte:</p>\n<ul>\n<li>Sea Lantern — krásné modré světlo</li>\n<li>Shroomlight — teplé oranžové světlo</li>\n<li>Glow Stone — klasika</li>\n<li>Sculk (dekorativní, nesvítí)</li>\n</ul>\n<h3>Ventilace a vstupy</h3>\n<p>Vytvořte alespoň dva vstupy — primární (skrytý vstup na povrchu) a nouzový únikový tunel. Vždy mějte cestu ven i bez přístupu k primárnímu vchodu.</p>",
@@ -698,6 +1130,15 @@
         3,
         6,
         8,
+=======
+      "title": "Jak efektivně používat Elytra a rakety",
+      "excerpt": "Létání s Elytrou je nejlepší způsob pohybu. Naučíš se vzlétnout ze země, čerpat rychlost a přistát bezpečně.",
+      "content": "<h3>Úvod do tématu: Jak efektivně používat Elytra a rakety</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Jak+efektivně+používat+Elytra+a+rakety\" alt=\"Jak efektivně používat Elytra a rakety\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-25T00:00:00Z",
+      "author": 4,
+      "category": 6,
+      "likes": [
+>>>>>>> Stashed changes
         11
       ]
     }
@@ -706,6 +1147,7 @@
     "model": "blog.article",
     "pk": 22,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Stavba mostů — od dřevěného k epickému",
       "excerpt": "Most je víc než jen způsob, jak překonat řeku. Může být architektonickým skvostem.",
       "content": "<p>Mosty jsou jedním z nejviditelnějších prvků každého Minecraft světa. Správně postavený most dodá vaší mapě charakter a krásu.</p>\n<h3>Dřevěný most pro začátečníky</h3>\n<p>Začněte jednoduše: Oak Planks jako vozovka, Oak Fence jako zábradlí a Lanterny pro osvětlení. Přidejte mírný oblouk — plochý most vypadá fádně.</p>\n<h3>Kamenný obloukový most</h3>\n<p>Obloukový most potřebuje precizní plánování. Pomocí F3 koordinát nakreslete oblouk na papíř a pak ho přenesete blok po bloku. Použijte Cobblestone, Stone Bricks a Andesite pro středověký vzhled.</p>\n<h3>Visuté lanovky</h3>\n<p>Pro dramatický efekt přes hluboká údolí stavte lanovky z Iron Bar nebo Chain bloků. Přidejte věže na obou koncích a mosty zavěšené na řetězech (Chain + Iron Bar).</p>",
@@ -718,6 +1160,19 @@
         4,
         10,
         11
+=======
+      "title": "Village raiding: Výhody a jak ochránit vesnici",
+      "excerpt": "Pillager raid přináší Bad Omen, ale také skvělé odměny. Jak se připravit a jak vesnici ubránit.",
+      "content": "<h3>Úvod do tématu: Village raiding: Výhody a jak ochránit vesnici</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>boj</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Village+raiding:+Výhody+a+jak+ochránit+vesnici\" alt=\"Village raiding: Výhody a jak ochránit vesnici\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>zbroj</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>boj</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>zbroj</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>boj</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-04-30T00:00:00Z",
+      "author": 5,
+      "category": 4,
+      "likes": [
+        6,
+        2,
+        8,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -725,6 +1180,7 @@
     "model": "blog.article",
     "pk": 23,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Interiérový design — jak zařídit dům v Minecraftu",
       "excerpt": "Zařídíte celý dům za 20 minut? S těmito tipy ano.",
       "content": "<p>Minecraft nemá nativní nábytkové mody — ale s kreativitou lze z existujících bloků vytvořit překrásné interiéry.</p>\n<h3>Obývací pokoj</h3>\n<p>Pohovka: tři Stairs vedle sebe, Trapdoor jako opěrka. Koberec: Wool bloky různých barev. Televize: Black Concrete nebo Quartz s Item Frame. Lampička: Campfire nebo Lantern na Fence Postu.</p>\n<h3>Kuchyně</h3>\n<p>Pracovní deska: Trapdoor položený naplocho. Skříňky: Barrel nebo Chesty s Trapdoorem jako dvířka. Sporák: Smoker nebo Blast Furnace. Dřez: Cauldron.</p>\n<h3>Ložnice</h3>\n<p>Postel je daná — ale přidejte noční stolky z Trapdoor + Fence Post. Skříň ze dvou Barrel vedle sebe. Okno s Flower Pot na parapetu.</p>\n<p>Klíčem je variovat materiály — jedna místnost by neměla mít více než 3–4 různé dřevo nebo kamenné typy najednou.</p>",
@@ -736,6 +1192,17 @@
         5,
         4,
         9
+=======
+      "title": "Enchanting guide: Od základů po max level",
+      "excerpt": "Jak funguje enchanting table, jaké enchanty kombinovat a jak rychle získat level 30.",
+      "content": "<h3>Úvod do tématu: Enchanting guide: Od základů po max level</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Enchanting+guide:+Od+základů+po+max+level\" alt=\"Enchanting guide: Od základů po max level\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-06T00:00:00Z",
+      "author": 6,
+      "category": 1,
+      "likes": [
+        5,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -743,6 +1210,7 @@
     "model": "blog.article",
     "pk": 24,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak používat mapy a plánovat velké stavby",
       "excerpt": "Velké stavby bez plánování vždy dopadnou špatně. Ukážeme vám, jak plánovat jako profesionál.",
       "content": "<p>Velké stavby v Minecraftu vyžadují přípravu. Bez plánování skončíte s nevyváženou strukturou, která se vám nebude líbit.</p>\n<h3>Naplánujte na papíře</h3>\n<p>Před prvním blokem si nakreslete základní plán na čtverečkovaný papír. Každý čtverec = jeden blok. Určete rozměry, polohu vstupů a tvar střechy.</p>\n<h3>Postavte základ jako první</h3>\n<p>Vždy začněte položením kompletního základu (podlahy nebo obrysu zdí). To vám ukáže skutečné proporce stavby v prostoru Minecraftu — v 2D plánu se mohou lišit.</p>\n<h3>Scaffold technika</h3>\n<p>Pro vysoké stavby použijte Scaffold bloky — lze je stavět a bourací bez nástrojů a padají samy dolů. Mnohem pohodlnější než lešení z dřeva.</p>",
@@ -753,6 +1221,19 @@
         10,
         11,
         2
+=======
+      "title": "Composter a automatická bonemeal farma",
+      "excerpt": "Využij composter naplno — postav automatickou farmu na bonemeal pro rychlé pěstování.",
+      "content": "<h3>Úvod do tématu: Composter a automatická bonemeal farma</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>farmaření</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Composter+a+automatická+bonemeal+farma\" alt=\"Composter a automatická bonemeal farma\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>úrodu</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>farmaření</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>úrodu</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>farmaření</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-09T00:00:00Z",
+      "author": 7,
+      "category": 2,
+      "likes": [
+        2,
+        5,
+        6,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -760,6 +1241,7 @@
     "model": "blog.article",
     "pk": 25,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak přežít první noc v Minecraftu",
       "excerpt": "První noc je pro mnoho hráčů smrtelná. Naučte se, jak ji přežít bez stresu.",
       "content": "<p>První noc v Minecraftu je klasická výzva. Ale s dobrým plánem ji zvládnete bez jediné smrti.</p>\n<h3>Prvních 10 minut je rozhodujících</h3>\n<p>Hned při spawnování se vydejte k nejbližšímu stromu. Sebeřte alespoň <strong>16 bloků dřeva</strong> — to je základ všeho. Nevytáhejte to — slunce zapadá za 10 herních minut.</p>\n<h3>Priority výroby</h3>\n<p>V tomto pořadí vyrobte:</p>\n<ul>\n<li>Pracovní stůl (4× Wood Plank)</li>\n<li>Kamenné nástroje (sekera, krumpáč, meč)</li>\n<li>Truhla pro uložení přebytků</li>\n<li>Postel (pokud najdete ovce)</li>\n</ul>\n<h3>Nouzový úkryt</h3>\n<p>Pokud nemáte postel, vykopejte do kopce malý tunel 3×3×6, zablokujte vchod dřevem a přečkejte noc uvnitř. Ráno vyjděte a pokračujte. Není to hrdina, ale funguje to.</p>",
@@ -773,6 +1255,21 @@
         10,
         4,
         11
+=======
+      "title": "Buduj v teamu: Multiplayer tipy pro kamarády",
+      "excerpt": "Jak efektivně sdílet práci ve více hráčích — dělba rolí, sdílené warehouse a pravidla serveru.",
+      "content": "<h3>Úvod do tématu: Buduj v teamu: Multiplayer tipy pro kamarády</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Buduj+v+teamu:+Multiplayer+tipy+pro+kamarády\" alt=\"Buduj v teamu: Multiplayer tipy pro kamarády\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-14T00:00:00Z",
+      "author": 8,
+      "category": 3,
+      "likes": [
+        4,
+        2,
+        7,
+        10,
+        6,
+        5
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -780,6 +1277,7 @@
     "model": "blog.article",
     "pk": 26,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Průvodce bojem s Endem — jak porazit Ender Dragona",
       "excerpt": "Ender Dragon je finální boss Minecraftu. Ale s přípravou ho porazíte na první pokus.",
       "content": "<p>Ender Dragon je cíl každého survival playthrough. Příprava je klíčem — improvizace v Endu vás bude stát život.</p>\n<h3>Vybavení před Endem</h3>\n<p>Absolutní minimum pro vstup do Endu:</p>\n<ul>\n<li>Plná diamantová zbroj (ideálně s Protection IV)</li>\n<li>Diamantový nebo netheritový meč (Sharpness V)</li>\n<li>Luk s Infinity a Power V</li>\n<li>Zlatá jablka a lektvary léčení</li>\n<li>Enderperly pro mobilitu</li>\n</ul>\n<h3>Strategie boje</h3>\n<p>Dračí krystaly na obsidiánových věžích léčí draka — zničte je jako první. Lze je rozbít šípem nebo vejcem. Pak čekejte na Dragonovu perching fázi a sekejte do hlavy.</p>\n<h3>Po vítězství</h3>\n<p>Po smrti Dragona se otevře portal zpět a padne 12 000 XP. Sebeřte Dragon Egg — je to jediný předmět svého druhu ve hře. A nezapomeňte prozkoumat End City pro Elytra.</p>",
@@ -789,12 +1287,22 @@
       "likes": [
         2
       ]
+=======
+      "title": "Speedrun strategie: Any% pro casual hráče",
+      "excerpt": "Nemusíš být světový rekordman. Přinášíme zjednodušenou speedrun strategii pro hráče bez zkušeností.",
+      "content": "<h3>Úvod do tématu: Speedrun strategie: Any% pro casual hráče</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Speedrun+strategie:+Any%+pro+casual+hráče\" alt=\"Speedrun strategie: Any% pro casual hráče\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-17T00:00:00Z",
+      "author": 9,
+      "category": 6,
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.article",
     "pk": 27,
     "fields": {
+<<<<<<< Updated upstream
       "title": "Jak se bránit před Raidery",
       "excerpt": "Raidy jsou jednou z nejtěžších výzev v Minecraftu. Připravte svou vesnici na útok.",
       "content": "<p>Raid je vlnový útok na vesnici, který nastane poté, co hráč se statusem Bad Omen vstoupí do vesnice. Dobrou zprávou je, že lze raidy nejen přežít, ale i efektivně využít.</p>\n<h3>Jak raid nastane</h3>\n<p>Stav Bad Omen získáte zabití Illager Patroly na povrchu. Status přetrvá 100 minut herního času. Vstupte do vesnice a raid okamžitě začne — 5–7 vln nepřátel.</p>\n<h3>Obranné přípravy</h3>\n<ul>\n<li>Opevněte vstupy do vesnice — uzavřete ulice Iron Golem nebo zdí</li>\n<li>Vezměte s sebou dostatek lektvarů a jídla</li>\n<li>Mějte meč s Smite V pro efektivní boj s Undeadem</li>\n<li>Luk pro likvidaci Evokerů na dálku (nebezpeční Vex summonerů)</li>\n</ul>\n<h3>Odměna za přežití</h3>\n<p>Dokončení raidu vám udělí status <strong>Hero of the Village</strong> — vesničané vám nabízejí výrazné slevy na obchod. Tato odměna je jedna z nejcennějších v celé hře.</p>",
@@ -804,12 +1312,22 @@
       "likes": [
         11
       ]
+=======
+      "title": "Jak postavit efektivní XP farm s Endermanem",
+      "excerpt": "End island je perfektní místo pro XP farm. Jednoduchá stavba, obrovský výkon.",
+      "content": "<h3>Úvod do tématu: Jak postavit efektivní XP farm s Endermanem</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>těžbu</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Jak+postavit+efektivní+XP+farm+s+Endermanem\" alt=\"Jak postavit efektivní XP farm s Endermanem\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>diamanty</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>těžbu</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>diamanty</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>těžbu</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-19T00:00:00Z",
+      "author": 10,
+      "category": 1,
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "blog.article",
     "pk": 28,
     "fields": {
+<<<<<<< Updated upstream
       "title": "PvP průvodce — jak dominovat v multiplayer bitvách",
       "excerpt": "Survival PvP má svá pravidla. Zvládnete je a stanete se nepřemožitelným hráčem.",
       "content": "<p>PvP v Minecraftu je kombinací mechaniky, vybavení a zkušenosti. Všechny tři lze trénovat.</p>\n<h3>Základ PvP — timing útoku</h3>\n<p>V Java Edition je klíčový cooldown útoku — ukazuje ho malý ukazatel nad hotbarem. Útočte vždy až při plně nabitém ukazateli. Rychlé klikání způsobuje nižší poškození.</p>\n<h3>Pohybová technika</h3>\n<p>Nejlepší PvP hráči neustále pohybují — nikdy nestojí na místě. Strafování (pohyb do stran) ztěžuje soupeři zásah. Sprint a útok zároveň způsobuje Knockback — tlačí soupeře na hranu nebo do propasti.</p>\n<h3>Enchantmenty pro PvP</h3>\n<ul>\n<li>Zbroj: Protection IV, Feather Falling IV (boty), Thorns III</li>\n<li>Meč: Sharpness V nebo Smite V (zombie servery), Knockback II</li>\n<li>Luk: Power V, Punch II, Flame I</li>\n</ul>",
@@ -875,12 +1393,28 @@
       "author": 10,
       "category": 5,
       "likes": [
+=======
+      "title": "Zvládni Nether Fortress: Blaze rod a Wither skeleton",
+      "excerpt": "Pevnosti v Netheru skrývají klíčové suroviny. Jak je najít, přežít Blazy a porazit Wither skeletony.",
+      "content": "<h3>Úvod do tématu: Zvládni Nether Fortress: Blaze rod a Wither skeleton</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>boj</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Zvládni+Nether+Fortress:+Blaze+rod+a+Wither+skeleton\" alt=\"Zvládni Nether Fortress: Blaze rod a Wither skeleton\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>zbroj</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>boj</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>zbroj</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>boj</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-26T00:00:00Z",
+      "author": 2,
+      "category": 4,
+      "likes": [
+        8,
+        4,
+        7,
+        11,
+        2,
+        5,
+>>>>>>> Stashed changes
         6
       ]
     }
   },
   {
     "model": "blog.article",
+<<<<<<< Updated upstream
     "pk": 33,
     "fields": {
       "title": "Automatické dveře a tajné vstupy",
@@ -925,12 +1459,27 @@
       "likes": [
         10,
         9,
+=======
+    "pk": 29,
+    "fields": {
+      "title": "Tipy pro stavbu v survival módu bez cheatu",
+      "excerpt": "Jak pořádně stavět bez creative módu — příprava materiálů, lešení a efektivní práce.",
+      "content": "<h3>Úvod do tématu: Tipy pro stavbu v survival módu bez cheatu</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>stavění</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Tipy+pro+stavbu+v+survival+módu+bez+cheatu\" alt=\"Tipy pro stavbu v survival módu bez cheatu\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>materiály</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>stavění</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>materiály</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>stavění</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-28T00:00:00Z",
+      "author": 3,
+      "category": 3,
+      "likes": [
+        6,
+        11,
+        7,
+>>>>>>> Stashed changes
         3
       ]
     }
   },
   {
     "model": "blog.article",
+<<<<<<< Updated upstream
     "pk": 36,
     "fields": {
       "title": "Složitější redstone — AND, OR a NOT brány",
@@ -1084,6 +1633,23 @@
       "author": 7,
       "category": 6,
       "likes": [
+=======
+    "pk": 30,
+    "fields": {
+      "title": "Nejlepší seed pro rok 2024: Spawn blízko všeho",
+      "excerpt": "Vybrali jsme nejlepší seedy s ideálním spawnem — blízko vesnice, dungeonu a biome pro rychlý start.",
+      "content": "<h3>Úvod do tématu: Nejlepší seed pro rok 2024: Spawn blízko všeho</h3>\n<p>Vítej v dalším článku na našem survival blogu! Dnes se podíváme na téma <strong>průzkum</strong> a ukážeme ti, jak na to efektivně v survival módu bez zbytečných chyb. Tento návod je vhodný jak pro začátečníky, tak pro pokročilé hráče.</p>\n\n<img src=\"https://placehold.co/800x400/1a1a2e/ffffff?text=Nejlepší+seed+pro+rok+2024:+Spawn+blízko+všeho\" alt=\"Nejlepší seed pro rok 2024: Spawn blízko všeho\" class=\"img-fluid rounded my-3\" />\n\n<h3>Co budeš potřebovat</h3>\n<ul>\n  <li>Alespoň základní znalost <strong>biomy</strong></li>\n  <li>Survival svět s alespoň 2–3 herními dny</li>\n  <li>Dostatek materiálů — seznam najdeš níže</li>\n  <li>Trpělivost a chuť experimentovat</li>\n</ul>\n\n<h3>Krok 1: Příprava a plánování</h3>\n<p>Než začneš, je důležité si vše naplánovat. Spousta hráčů dělá chybu, že se do <strong>průzkum</strong> pustí bez přípravy a pak zbytečně ztrácí čas i suroviny. Vezmi si papír (nebo otevři F3) a poznamenej si aktuální souřadnice — budeš se k nim vracet.</p>\n\n<img src=\"https://placehold.co/800x350/16213e/00ff88?text=Krok+1+-+Priprava\" alt=\"Příprava\" class=\"img-fluid rounded my-3\" />\n\n<h3>Krok 2: Hlavní postup</h3>\n<p>Teď přichází ta zajímavá část. Základem je pochopit, jak <strong>biomy</strong> fungují v Minecraftu. Hra má spoustu skrytých mechanik, které většina hráčů netuší. Například:</p>\n<ul>\n  <li>Efficiency enchant výrazně urychlí celý proces</li>\n  <li>Fortune III je klíčový pro maximální výtěžnost</li>\n  <li>Vždy si nech záložní nástroje v chestu u vstupu</li>\n</ul>\n\n<h3>Krok 3: Optimalizace a tipy</h3>\n<p>Pokud ti jde o maximální efektivitu, zde jsou naše top tipy od zkušených hráčů komunity. Tyto triky vycházejí z hodin testování a porovnávání různých přístupů.</p>\n<p><strong>Tip #1:</strong> Vždy pracuj s plným inventářem nástrojů, ne jen jedním. <strong>Tip #2:</strong> Kombinuj různé přístupy — výsledky tě překvapí. <strong>Tip #3:</strong> Sleduj YouTube tutoriály jako doplněk k textovým návodům.</p>\n\n<img src=\"https://placehold.co/800x350/0f3460/ffd700?text=Pro+Tipy\" alt=\"Pro tipy\" class=\"img-fluid rounded my-3\" />\n\n<h3>Závěr</h3>\n<p>Doufáme, že ti tento průvodce pomohl lépe pochopit <strong>průzkum</strong> v Minecraftu. Máš vlastní tipy nebo zkušenosti? Sdílej je v komentářích níže — rádi se poučíme od ostatních hráčů komunity. Hodně štěstí na vašich serverech! ⛏️</p>",
+      "created_at": "2024-05-31T00:00:00Z",
+      "author": 4,
+      "category": 6,
+      "likes": [
+        3,
+        10,
+        7,
+        8,
+        4,
+        11,
+>>>>>>> Stashed changes
         6
       ]
     }
@@ -1093,11 +1659,19 @@
     "pk": 1,
     "fields": {
       "article": 1,
+<<<<<<< Updated upstream
       "author": 10,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
       "created_at": "2024-02-03T23:00:00Z",
       "likes": [
         9
+=======
+      "author": 2,
+      "content": "Čtu tenhle blog každý den, vždy se něco nového dozvím. Díky!",
+      "created_at": "2024-02-07T00:00:00Z",
+      "likes": [
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1105,12 +1679,24 @@
     "model": "comments.comment",
     "pk": 2,
     "fields": {
+<<<<<<< Updated upstream
       "article": 1,
       "author": 6,
       "content": "Tohle by mělo být ve hře jako tutorial.",
       "created_at": "2024-02-03T06:00:00Z",
       "likes": [
         3
+=======
+      "article": 2,
+      "author": 10,
+      "content": "Já osobně preferuju trochu jiný přístup, ale tohle taky funguje dobře.",
+      "created_at": "2024-02-11T00:00:00Z",
+      "likes": [
+        8,
+        2,
+        9,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1118,6 +1704,7 @@
     "model": "comments.comment",
     "pk": 3,
     "fields": {
+<<<<<<< Updated upstream
       "article": 1,
       "author": 3,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1127,28 +1714,56 @@
         10,
         11
       ]
+=======
+      "article": 3,
+      "author": 10,
+      "content": "Klasika, která furt funguje. Díky za připomenutí.",
+      "created_at": "2024-02-18T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 4,
     "fields": {
+<<<<<<< Updated upstream
       "article": 1,
       "author": 11,
       "content": "Díky za tipy, hned to zkusím na mém světě!",
       "created_at": "2024-02-01T14:00:00Z",
       "likes": []
+=======
+      "article": 3,
+      "author": 5,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-02-16T00:00:00Z",
+      "likes": [
+        6,
+        10,
+        7
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 5,
     "fields": {
+<<<<<<< Updated upstream
       "article": 2,
       "author": 8,
       "content": "Tohle mi zachránilo celý playthrough, děkuju moc.",
       "created_at": "2024-02-06T09:00:00Z",
       "likes": [
+=======
+      "article": 4,
+      "author": 4,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-02-19T00:00:00Z",
+      "likes": [
+        7,
+>>>>>>> Stashed changes
         5
       ]
     }
@@ -1157,12 +1772,23 @@
     "model": "comments.comment",
     "pk": 6,
     "fields": {
+<<<<<<< Updated upstream
       "article": 2,
       "author": 11,
       "content": "Výborně popsáno, i pro začátečníky srozumitelné.",
       "created_at": "2024-02-07T08:00:00Z",
       "likes": [
         6
+=======
+      "article": 5,
+      "author": 3,
+      "content": "Já osobně preferuju trochu jiný přístup, ale tohle taky funguje dobře.",
+      "created_at": "2024-02-24T00:00:00Z",
+      "likes": [
+        4,
+        8,
+        9
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1170,6 +1796,7 @@
     "model": "comments.comment",
     "pk": 7,
     "fields": {
+<<<<<<< Updated upstream
       "article": 2,
       "author": 6,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -1178,6 +1805,18 @@
         11,
         3,
         2
+=======
+      "article": 5,
+      "author": 7,
+      "content": "Díky za tip, tohle jsem fakt nevěděl. Ušetřilo mi to hodiny hraní.",
+      "created_at": "2024-02-24T00:00:00Z",
+      "likes": [
+        10,
+        3,
+        5,
+        2,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1185,12 +1824,21 @@
     "model": "comments.comment",
     "pk": 8,
     "fields": {
+<<<<<<< Updated upstream
       "article": 3,
       "author": 11,
       "content": "Skvělý článek! Přesně takhle jsem to potřeboval vědět.",
       "created_at": "2024-02-09T13:00:00Z",
       "likes": [
         4
+=======
+      "article": 5,
+      "author": 9,
+      "content": "Wow, tohle jsem vůbec nevěděl. Minecraft mě stále překvapuje!",
+      "created_at": "2024-02-22T00:00:00Z",
+      "likes": [
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1198,11 +1846,24 @@
     "model": "comments.comment",
     "pk": 9,
     "fields": {
+<<<<<<< Updated upstream
       "article": 3,
       "author": 9,
       "content": "Tohle by mělo být ve hře jako tutorial.",
       "created_at": "2024-02-11T15:00:00Z",
       "likes": [
+=======
+      "article": 6,
+      "author": 6,
+      "content": "Já osobně preferuju trochu jiný přístup, ale tohle taky funguje dobře.",
+      "created_at": "2024-02-27T00:00:00Z",
+      "likes": [
+        5,
+        3,
+        11,
+        4,
+        9,
+>>>>>>> Stashed changes
         8
       ]
     }
@@ -1211,22 +1872,43 @@
     "model": "comments.comment",
     "pk": 10,
     "fields": {
+<<<<<<< Updated upstream
       "article": 3,
       "author": 2,
       "content": "Mám s tím zkušenosti a potvrzuji — funguje to přesně takhle.",
       "created_at": "2024-02-11T02:00:00Z",
       "likes": []
+=======
+      "article": 6,
+      "author": 8,
+      "content": "Já na tohle přišel sám po 50 hodinách — kéž bych to věděl dřív!",
+      "created_at": "2024-02-26T00:00:00Z",
+      "likes": [
+        6
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 11,
     "fields": {
+<<<<<<< Updated upstream
       "article": 3,
       "author": 7,
       "content": "Dlouho jsem hledal tenhle návod, konečně.",
       "created_at": "2024-02-11T12:00:00Z",
       "likes": [
+=======
+      "article": 7,
+      "author": 4,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-03-05T00:00:00Z",
+      "likes": [
+        6,
+        5,
+        11,
+>>>>>>> Stashed changes
         9,
         10
       ]
@@ -1236,34 +1918,71 @@
     "model": "comments.comment",
     "pk": 12,
     "fields": {
+<<<<<<< Updated upstream
       "article": 4,
       "author": 5,
       "content": "Zkusil jsem to dnes a fungovalo na první pokus!",
       "created_at": "2024-02-14T05:00:00Z",
       "likes": []
+=======
+      "article": 7,
+      "author": 6,
+      "content": "Tohle je gold. Sdílím to do naší skupiny na Discordu.",
+      "created_at": "2024-03-03T00:00:00Z",
+      "likes": [
+        2,
+        5,
+        9,
+        11,
+        4,
+        10
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 13,
     "fields": {
+<<<<<<< Updated upstream
       "article": 4,
       "author": 2,
       "content": "Nejlepší průvodce na toto téma co jsem četl.",
       "created_at": "2024-02-13T09:00:00Z",
       "likes": []
+=======
+      "article": 7,
+      "author": 3,
+      "content": "Super návod, jen bych přidal info o tom, jak to funguje v multiplayer módu.",
+      "created_at": "2024-03-04T00:00:00Z",
+      "likes": [
+        8,
+        6,
+        11,
+        10
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 14,
     "fields": {
+<<<<<<< Updated upstream
       "article": 5,
       "author": 10,
       "content": "První noc jsem přežil díky tomuto návodu, díky!",
       "created_at": "2024-02-19T21:00:00Z",
       "likes": [
         2
+=======
+      "article": 7,
+      "author": 10,
+      "content": "Funguje to i ve verzi 1.21? Hraju nejnovější Bedrock.",
+      "created_at": "2024-03-02T00:00:00Z",
+      "likes": [
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1271,6 +1990,7 @@
     "model": "comments.comment",
     "pk": 15,
     "fields": {
+<<<<<<< Updated upstream
       "article": 5,
       "author": 3,
       "content": "Výborně popsáno, i pro začátečníky srozumitelné.",
@@ -1280,6 +2000,17 @@
         6,
         10,
         2
+=======
+      "article": 7,
+      "author": 5,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-03-03T00:00:00Z",
+      "likes": [
+        7,
+        9,
+        11,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1287,6 +2018,7 @@
     "model": "comments.comment",
     "pk": 16,
     "fields": {
+<<<<<<< Updated upstream
       "article": 5,
       "author": 8,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -1296,6 +2028,16 @@
         9,
         7,
         6
+=======
+      "article": 8,
+      "author": 4,
+      "content": "Tuhle metodu znám, ale nikdy jsem ji nepopsal tak jasně jako ty.",
+      "created_at": "2024-03-05T00:00:00Z",
+      "likes": [
+        3,
+        2,
+        9
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1303,6 +2045,7 @@
     "model": "comments.comment",
     "pk": 17,
     "fields": {
+<<<<<<< Updated upstream
       "article": 5,
       "author": 9,
       "content": "Redstone mi dával smysl až po přečtení tohoto.",
@@ -1310,6 +2053,19 @@
       "likes": [
         5,
         7
+=======
+      "article": 8,
+      "author": 5,
+      "content": "Pozor, na Bedrocku to funguje trochu jinak — tam musíš upravit krok 2.",
+      "created_at": "2024-03-09T00:00:00Z",
+      "likes": [
+        9,
+        3,
+        6,
+        11,
+        7,
+        8
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1317,6 +2073,7 @@
     "model": "comments.comment",
     "pk": 18,
     "fields": {
+<<<<<<< Updated upstream
       "article": 6,
       "author": 7,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1327,6 +2084,18 @@
         4,
         2,
         8
+=======
+      "article": 9,
+      "author": 10,
+      "content": "Skvělý článek, hned jsem to vyzkoušel a fungovalo to!",
+      "created_at": "2024-03-09T00:00:00Z",
+      "likes": [
+        3,
+        6,
+        8,
+        7,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1334,23 +2103,47 @@
     "model": "comments.comment",
     "pk": 19,
     "fields": {
+<<<<<<< Updated upstream
       "article": 6,
       "author": 11,
       "content": "Oceňuji detailní popis každého kroku.",
       "created_at": "2024-02-21T14:00:00Z",
       "likes": []
+=======
+      "article": 9,
+      "author": 6,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-03-09T00:00:00Z",
+      "likes": [
+        10
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 20,
     "fields": {
+<<<<<<< Updated upstream
       "article": 7,
       "author": 5,
       "content": "První noc jsem přežil díky tomuto návodu, díky!",
       "created_at": "2024-02-26T11:00:00Z",
       "likes": [
         8
+=======
+      "article": 9,
+      "author": 7,
+      "content": "Tuhle metodu znám, ale nikdy jsem ji nepopsal tak jasně jako ty.",
+      "created_at": "2024-03-10T00:00:00Z",
+      "likes": [
+        4,
+        3,
+        9,
+        8,
+        11,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1358,12 +2151,25 @@
     "model": "comments.comment",
     "pk": 21,
     "fields": {
+<<<<<<< Updated upstream
       "article": 7,
       "author": 3,
       "content": "Sdílím přátelům, tohle se hodí každému.",
       "created_at": "2024-02-27T01:00:00Z",
       "likes": [
         5,
+=======
+      "article": 10,
+      "author": 4,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-03-13T00:00:00Z",
+      "likes": [
+        11,
+        2,
+        7,
+        5,
+        6,
+>>>>>>> Stashed changes
         10
       ]
     }
@@ -1372,6 +2178,7 @@
     "model": "comments.comment",
     "pk": 22,
     "fields": {
+<<<<<<< Updated upstream
       "article": 7,
       "author": 11,
       "content": "První noc jsem přežil díky tomuto návodu, díky!",
@@ -1381,6 +2188,14 @@
         2,
         7,
         6
+=======
+      "article": 10,
+      "author": 8,
+      "content": "Hmm, mě to úplně tak nefungovalo. Možná chyba ve verzi Minecraftu?",
+      "created_at": "2024-03-14T00:00:00Z",
+      "likes": [
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1388,12 +2203,24 @@
     "model": "comments.comment",
     "pk": 23,
     "fields": {
+<<<<<<< Updated upstream
       "article": 7,
       "author": 6,
       "content": "Vždy jsem to dělal špatně, teď už vím proč.",
       "created_at": "2024-02-25T19:00:00Z",
       "likes": [
         3,
+=======
+      "article": 10,
+      "author": 3,
+      "content": "Já osobně preferuju trochu jiný přístup, ale tohle taky funguje dobře.",
+      "created_at": "2024-03-14T00:00:00Z",
+      "likes": [
+        10,
+        4,
+        9,
+        7,
+>>>>>>> Stashed changes
         11
       ]
     }
@@ -1402,6 +2229,7 @@
     "model": "comments.comment",
     "pk": 24,
     "fields": {
+<<<<<<< Updated upstream
       "article": 8,
       "author": 11,
       "content": "Mám s tím zkušenosti a potvrzuji — funguje to přesně takhle.",
@@ -1409,6 +2237,15 @@
       "likes": [
         5,
         7
+=======
+      "article": 11,
+      "author": 10,
+      "content": "Pozor, na Bedrocku to funguje trochu jinak — tam musíš upravit krok 2.",
+      "created_at": "2024-03-18T00:00:00Z",
+      "likes": [
+        11,
+        8
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1416,6 +2253,7 @@
     "model": "comments.comment",
     "pk": 25,
     "fields": {
+<<<<<<< Updated upstream
       "article": 8,
       "author": 5,
       "content": "Dlouho jsem hledal tenhle návod, konečně.",
@@ -1424,6 +2262,18 @@
         7,
         2,
         10
+=======
+      "article": 11,
+      "author": 11,
+      "content": "Super návod, jen bych přidal info o tom, jak to funguje v multiplayer módu.",
+      "created_at": "2024-03-20T00:00:00Z",
+      "likes": [
+        6,
+        8,
+        7,
+        9,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1431,17 +2281,28 @@
     "model": "comments.comment",
     "pk": 26,
     "fields": {
+<<<<<<< Updated upstream
       "article": 8,
       "author": 9,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
       "created_at": "2024-03-01T13:00:00Z",
       "likes": []
+=======
+      "article": 11,
+      "author": 9,
+      "content": "Máš někde video k tomuhle? Text je fajn ale video by pomohlo.",
+      "created_at": "2024-03-17T00:00:00Z",
+      "likes": [
+        5
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 27,
     "fields": {
+<<<<<<< Updated upstream
       "article": 8,
       "author": 2,
       "content": "Nejlepší průvodce na toto téma co jsem četl.",
@@ -1452,6 +2313,17 @@
         8,
         6,
         11
+=======
+      "article": 11,
+      "author": 4,
+      "content": "Skvělý článek, hned jsem to vyzkoušel a fungovalo to!",
+      "created_at": "2024-03-17T00:00:00Z",
+      "likes": [
+        11,
+        6,
+        7,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1459,10 +2331,17 @@
     "model": "comments.comment",
     "pk": 28,
     "fields": {
+<<<<<<< Updated upstream
       "article": 9,
       "author": 8,
       "content": "První noc jsem přežil díky tomuto návodu, díky!",
       "created_at": "2024-03-04T03:00:00Z",
+=======
+      "article": 12,
+      "author": 2,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-03-21T00:00:00Z",
+>>>>>>> Stashed changes
       "likes": []
     }
   },
@@ -1470,23 +2349,42 @@
     "model": "comments.comment",
     "pk": 29,
     "fields": {
+<<<<<<< Updated upstream
       "article": 9,
       "author": 3,
       "content": "Výborně popsáno, i pro začátečníky srozumitelné.",
       "created_at": "2024-03-06T23:00:00Z",
       "likes": []
+=======
+      "article": 13,
+      "author": 3,
+      "content": "Tuhle metodu znám, ale nikdy jsem ji nepopsal tak jasně jako ty.",
+      "created_at": "2024-03-28T00:00:00Z",
+      "likes": [
+        7
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 30,
     "fields": {
+<<<<<<< Updated upstream
       "article": 9,
       "author": 11,
       "content": "Trochu složité na první pohled, ale po přečtení to dává smysl.",
       "created_at": "2024-03-07T00:00:00Z",
       "likes": [
         8
+=======
+      "article": 13,
+      "author": 6,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-03-26T00:00:00Z",
+      "likes": [
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1494,6 +2392,7 @@
     "model": "comments.comment",
     "pk": 31,
     "fields": {
+<<<<<<< Updated upstream
       "article": 9,
       "author": 4,
       "content": "Díky za tipy, hned to zkusím na mém světě!",
@@ -1501,6 +2400,14 @@
       "likes": [
         2,
         8
+=======
+      "article": 13,
+      "author": 11,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-03-25T00:00:00Z",
+      "likes": [
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1508,6 +2415,7 @@
     "model": "comments.comment",
     "pk": 32,
     "fields": {
+<<<<<<< Updated upstream
       "article": 10,
       "author": 5,
       "content": "Tohle mi zachránilo celý playthrough, děkuju moc.",
@@ -1517,6 +2425,16 @@
         4,
         3,
         11
+=======
+      "article": 14,
+      "author": 7,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-03-29T00:00:00Z",
+      "likes": [
+        10,
+        2,
+        8
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1524,12 +2442,25 @@
     "model": "comments.comment",
     "pk": 33,
     "fields": {
+<<<<<<< Updated upstream
       "article": 10,
       "author": 4,
       "content": "Super, přesně takhle jsem to potřeboval.",
       "created_at": "2024-03-08T05:00:00Z",
       "likes": [
         8
+=======
+      "article": 14,
+      "author": 2,
+      "content": "Docela složité pro začátečníky, ale výsledek stojí za to.",
+      "created_at": "2024-04-02T00:00:00Z",
+      "likes": [
+        8,
+        4,
+        10,
+        9,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1537,6 +2468,7 @@
     "model": "comments.comment",
     "pk": 34,
     "fields": {
+<<<<<<< Updated upstream
       "article": 11,
       "author": 5,
       "content": "Zkusil jsem to dnes a fungovalo na první pokus!",
@@ -1547,6 +2479,16 @@
         10,
         2,
         6
+=======
+      "article": 14,
+      "author": 11,
+      "content": "Přesně tohle jsem hledal! Bookmarked.",
+      "created_at": "2024-03-30T00:00:00Z",
+      "likes": [
+        4,
+        6,
+        5
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1554,6 +2496,7 @@
     "model": "comments.comment",
     "pk": 35,
     "fields": {
+<<<<<<< Updated upstream
       "article": 11,
       "author": 6,
       "content": "Sdílím přátelům, tohle se hodí každému.",
@@ -1561,6 +2504,16 @@
       "likes": [
         7,
         5
+=======
+      "article": 14,
+      "author": 10,
+      "content": "Já osobně preferuju trochu jiný přístup, ale tohle taky funguje dobře.",
+      "created_at": "2024-04-02T00:00:00Z",
+      "likes": [
+        11,
+        3,
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1568,6 +2521,7 @@
     "model": "comments.comment",
     "pk": 36,
     "fields": {
+<<<<<<< Updated upstream
       "article": 11,
       "author": 3,
       "content": "Skvělý článek! Přesně takhle jsem to potřeboval vědět.",
@@ -1575,6 +2529,13 @@
       "likes": [
         8,
         7,
+=======
+      "article": 15,
+      "author": 3,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-04-05T00:00:00Z",
+      "likes": [
+>>>>>>> Stashed changes
         9
       ]
     }
@@ -1583,6 +2544,7 @@
     "model": "comments.comment",
     "pk": 37,
     "fields": {
+<<<<<<< Updated upstream
       "article": 12,
       "author": 6,
       "content": "Trochu složité na první pohled, ale po přečtení to dává smysl.",
@@ -1592,12 +2554,20 @@
         8,
         2
       ]
+=======
+      "article": 16,
+      "author": 5,
+      "content": "Docela složité pro začátečníky, ale výsledek stojí za to.",
+      "created_at": "2024-04-07T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 38,
     "fields": {
+<<<<<<< Updated upstream
       "article": 12,
       "author": 3,
       "content": "Dlouho jsem hledal tenhle návod, konečně.",
@@ -1607,6 +2577,16 @@
         2,
         10,
         11
+=======
+      "article": 16,
+      "author": 9,
+      "content": "Skvělý článek, hned jsem to vyzkoušel a fungovalo to!",
+      "created_at": "2024-04-09T00:00:00Z",
+      "likes": [
+        6,
+        10,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1614,6 +2594,7 @@
     "model": "comments.comment",
     "pk": 39,
     "fields": {
+<<<<<<< Updated upstream
       "article": 13,
       "author": 8,
       "content": "Trochu složité na první pohled, ale po přečtení to dává smysl.",
@@ -1622,6 +2603,13 @@
         11,
         3,
         5,
+=======
+      "article": 16,
+      "author": 11,
+      "content": "Přesně tohle jsem hledal! Bookmarked.",
+      "created_at": "2024-04-07T00:00:00Z",
+      "likes": [
+>>>>>>> Stashed changes
         6
       ]
     }
@@ -1630,6 +2618,7 @@
     "model": "comments.comment",
     "pk": 40,
     "fields": {
+<<<<<<< Updated upstream
       "article": 13,
       "author": 6,
       "content": "Dlouho jsem hledal tenhle návod, konečně.",
@@ -1640,6 +2629,18 @@
         7,
         11,
         3
+=======
+      "article": 16,
+      "author": 2,
+      "content": "Wow, tohle jsem vůbec nevěděl. Minecraft mě stále překvapuje!",
+      "created_at": "2024-04-06T00:00:00Z",
+      "likes": [
+        11,
+        3,
+        8,
+        5,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1647,6 +2648,7 @@
     "model": "comments.comment",
     "pk": 41,
     "fields": {
+<<<<<<< Updated upstream
       "article": 13,
       "author": 5,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1657,6 +2659,19 @@
         10,
         2,
         4
+=======
+      "article": 17,
+      "author": 9,
+      "content": "Tuhle metodu znám, ale nikdy jsem ji nepopsal tak jasně jako ty.",
+      "created_at": "2024-04-10T00:00:00Z",
+      "likes": [
+        11,
+        4,
+        2,
+        6,
+        8,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1664,6 +2679,7 @@
     "model": "comments.comment",
     "pk": 42,
     "fields": {
+<<<<<<< Updated upstream
       "article": 14,
       "author": 7,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1672,6 +2688,16 @@
         6,
         4,
         3
+=======
+      "article": 17,
+      "author": 3,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-04-14T00:00:00Z",
+      "likes": [
+        4,
+        6,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1679,6 +2705,7 @@
     "model": "comments.comment",
     "pk": 43,
     "fields": {
+<<<<<<< Updated upstream
       "article": 14,
       "author": 10,
       "content": "Super, přesně takhle jsem to potřeboval.",
@@ -1689,12 +2716,20 @@
         11,
         2
       ]
+=======
+      "article": 17,
+      "author": 2,
+      "content": "Klasika, která furt funguje. Díky za připomenutí.",
+      "created_at": "2024-04-13T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 44,
     "fields": {
+<<<<<<< Updated upstream
       "article": 14,
       "author": 4,
       "content": "Zkusil jsem to dnes a fungovalo na první pokus!",
@@ -1703,6 +2738,17 @@
         8,
         10,
         6
+=======
+      "article": 17,
+      "author": 10,
+      "content": "Wow, tohle jsem vůbec nevěděl. Minecraft mě stále překvapuje!",
+      "created_at": "2024-04-12T00:00:00Z",
+      "likes": [
+        11,
+        7,
+        4,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1710,6 +2756,7 @@
     "model": "comments.comment",
     "pk": 45,
     "fields": {
+<<<<<<< Updated upstream
       "article": 14,
       "author": 8,
       "content": "Sdílím přátelům, tohle se hodí každému.",
@@ -1718,6 +2765,16 @@
         4,
         3,
         11
+=======
+      "article": 17,
+      "author": 5,
+      "content": "Čtu tenhle blog každý den, vždy se něco nového dozvím. Díky!",
+      "created_at": "2024-04-12T00:00:00Z",
+      "likes": [
+        4,
+        7,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1725,6 +2782,7 @@
     "model": "comments.comment",
     "pk": 46,
     "fields": {
+<<<<<<< Updated upstream
       "article": 15,
       "author": 8,
       "content": "Tohle mi zachránilo celý playthrough, děkuju moc.",
@@ -1735,6 +2793,17 @@
         9,
         3,
         7
+=======
+      "article": 18,
+      "author": 2,
+      "content": "Funguje to i ve verzi 1.21? Hraju nejnovější Bedrock.",
+      "created_at": "2024-04-18T00:00:00Z",
+      "likes": [
+        4,
+        11,
+        7,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1742,6 +2811,7 @@
     "model": "comments.comment",
     "pk": 47,
     "fields": {
+<<<<<<< Updated upstream
       "article": 15,
       "author": 2,
       "content": "Díky za tipy, hned to zkusím na mém světě!",
@@ -1751,12 +2821,20 @@
         10,
         6
       ]
+=======
+      "article": 19,
+      "author": 4,
+      "content": "Já na tohle přišel sám po 50 hodinách — kéž bych to věděl dřív!",
+      "created_at": "2024-04-19T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 48,
     "fields": {
+<<<<<<< Updated upstream
       "article": 15,
       "author": 10,
       "content": "Moc hezky vysvětleno, palec nahoru.",
@@ -1767,6 +2845,14 @@
         5,
         3,
         7
+=======
+      "article": 19,
+      "author": 8,
+      "content": "Hmm, mě to úplně tak nefungovalo. Možná chyba ve verzi Minecraftu?",
+      "created_at": "2024-04-22T00:00:00Z",
+      "likes": [
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1774,6 +2860,7 @@
     "model": "comments.comment",
     "pk": 49,
     "fields": {
+<<<<<<< Updated upstream
       "article": 15,
       "author": 11,
       "content": "Díky za tipy, hned to zkusím na mém světě!",
@@ -1782,6 +2869,19 @@
         5,
         4,
         8
+=======
+      "article": 19,
+      "author": 7,
+      "content": "Klasika, která furt funguje. Díky za připomenutí.",
+      "created_at": "2024-04-19T00:00:00Z",
+      "likes": [
+        11,
+        2,
+        8,
+        6,
+        4,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1789,6 +2889,7 @@
     "model": "comments.comment",
     "pk": 50,
     "fields": {
+<<<<<<< Updated upstream
       "article": 16,
       "author": 11,
       "content": "Taky doporučuji Chunkbase pro hledání biomy, šetří čas.",
@@ -1798,6 +2899,18 @@
         3,
         10,
         9
+=======
+      "article": 20,
+      "author": 3,
+      "content": "Máš někde video k tomuhle? Text je fajn ale video by pomohlo.",
+      "created_at": "2024-04-23T00:00:00Z",
+      "likes": [
+        11,
+        5,
+        10,
+        9,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1805,6 +2918,7 @@
     "model": "comments.comment",
     "pk": 51,
     "fields": {
+<<<<<<< Updated upstream
       "article": 16,
       "author": 10,
       "content": "Redstone mi dával smysl až po přečtení tohoto.",
@@ -1813,6 +2927,18 @@
         11,
         8,
         9
+=======
+      "article": 20,
+      "author": 8,
+      "content": "Super návod, jen bych přidal info o tom, jak to funguje v multiplayer módu.",
+      "created_at": "2024-04-25T00:00:00Z",
+      "likes": [
+        6,
+        10,
+        4,
+        2,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1820,6 +2946,7 @@
     "model": "comments.comment",
     "pk": 52,
     "fields": {
+<<<<<<< Updated upstream
       "article": 16,
       "author": 6,
       "content": "Taky doporučuji Chunkbase pro hledání biomy, šetří čas.",
@@ -1831,12 +2958,20 @@
         3,
         9
       ]
+=======
+      "article": 20,
+      "author": 7,
+      "content": "Díky za tip, tohle jsem fakt nevěděl. Ušetřilo mi to hodiny hraní.",
+      "created_at": "2024-04-24T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 53,
     "fields": {
+<<<<<<< Updated upstream
       "article": 16,
       "author": 7,
       "content": "Tohle by mělo být ve hře jako tutorial.",
@@ -1844,6 +2979,18 @@
       "likes": [
         10,
         3
+=======
+      "article": 21,
+      "author": 6,
+      "content": "Pozor, na Bedrocku to funguje trochu jinak — tam musíš upravit krok 2.",
+      "created_at": "2024-04-26T00:00:00Z",
+      "likes": [
+        10,
+        9,
+        7,
+        2,
+        8
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1851,6 +2998,7 @@
     "model": "comments.comment",
     "pk": 54,
     "fields": {
+<<<<<<< Updated upstream
       "article": 17,
       "author": 6,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -1859,12 +3007,20 @@
         8,
         3
       ]
+=======
+      "article": 21,
+      "author": 4,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-04-28T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 55,
     "fields": {
+<<<<<<< Updated upstream
       "article": 17,
       "author": 4,
       "content": "Výborně popsáno, i pro začátečníky srozumitelné.",
@@ -1873,6 +3029,16 @@
         5,
         6,
         2
+=======
+      "article": 22,
+      "author": 10,
+      "content": "Přesně tohle jsem hledal! Bookmarked.",
+      "created_at": "2024-05-02T00:00:00Z",
+      "likes": [
+        4,
+        2,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1880,6 +3046,7 @@
     "model": "comments.comment",
     "pk": 56,
     "fields": {
+<<<<<<< Updated upstream
       "article": 17,
       "author": 7,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1889,6 +3056,14 @@
         9,
         2,
         3
+=======
+      "article": 22,
+      "author": 2,
+      "content": "Já na tohle přišel sám po 50 hodinách — kéž bych to věděl dřív!",
+      "created_at": "2024-04-30T00:00:00Z",
+      "likes": [
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1896,6 +3071,7 @@
     "model": "comments.comment",
     "pk": 57,
     "fields": {
+<<<<<<< Updated upstream
       "article": 17,
       "author": 8,
       "content": "Super, přesně takhle jsem to potřeboval.",
@@ -1905,6 +3081,19 @@
         10,
         2,
         4
+=======
+      "article": 22,
+      "author": 8,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-04-30T00:00:00Z",
+      "likes": [
+        9,
+        4,
+        3,
+        11,
+        7,
+        5
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1912,6 +3101,7 @@
     "model": "comments.comment",
     "pk": 58,
     "fields": {
+<<<<<<< Updated upstream
       "article": 18,
       "author": 9,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -1922,6 +3112,19 @@
         10,
         3,
         4
+=======
+      "article": 22,
+      "author": 4,
+      "content": "Tohle je gold. Sdílím to do naší skupiny na Discordu.",
+      "created_at": "2024-04-30T00:00:00Z",
+      "likes": [
+        9,
+        6,
+        5,
+        3,
+        2,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1929,6 +3132,7 @@
     "model": "comments.comment",
     "pk": 59,
     "fields": {
+<<<<<<< Updated upstream
       "article": 18,
       "author": 10,
       "content": "Tohle by mělo být ve hře jako tutorial.",
@@ -1937,6 +3141,14 @@
         7,
         8,
         11
+=======
+      "article": 22,
+      "author": 7,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-05-02T00:00:00Z",
+      "likes": [
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1944,6 +3156,7 @@
     "model": "comments.comment",
     "pk": 60,
     "fields": {
+<<<<<<< Updated upstream
       "article": 18,
       "author": 4,
       "content": "Taky doporučuji Chunkbase pro hledání biomy, šetří čas.",
@@ -1954,18 +3167,35 @@
         6,
         7
       ]
+=======
+      "article": 23,
+      "author": 5,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-05-05T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 61,
     "fields": {
+<<<<<<< Updated upstream
       "article": 19,
       "author": 2,
       "content": "Tohle mi zachránilo celý playthrough, děkuju moc.",
       "created_at": "2024-04-15T08:00:00Z",
       "likes": [
         10
+=======
+      "article": 23,
+      "author": 9,
+      "content": "Tohle je gold. Sdílím to do naší skupiny na Discordu.",
+      "created_at": "2024-05-06T00:00:00Z",
+      "likes": [
+        3,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1973,6 +3203,7 @@
     "model": "comments.comment",
     "pk": 62,
     "fields": {
+<<<<<<< Updated upstream
       "article": 19,
       "author": 6,
       "content": "Díky za tipy, hned to zkusím na mém světě!",
@@ -1981,6 +3212,15 @@
         8,
         5,
         10
+=======
+      "article": 23,
+      "author": 10,
+      "content": "Přidal bych ještě tip na to, jak ušetřit čas při přípravě.",
+      "created_at": "2024-05-06T00:00:00Z",
+      "likes": [
+        2,
+        3
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -1988,6 +3228,7 @@
     "model": "comments.comment",
     "pk": 63,
     "fields": {
+<<<<<<< Updated upstream
       "article": 19,
       "author": 7,
       "content": "Trochu složité na první pohled, ale po přečtení to dává smysl.",
@@ -1996,12 +3237,20 @@
         9,
         6
       ]
+=======
+      "article": 24,
+      "author": 11,
+      "content": "Čtu tenhle blog každý den, vždy se něco nového dozvím. Díky!",
+      "created_at": "2024-05-08T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 64,
     "fields": {
+<<<<<<< Updated upstream
       "article": 19,
       "author": 4,
       "content": "Tohle by mělo být ve hře jako tutorial.",
@@ -2012,6 +3261,18 @@
         5,
         3,
         10
+=======
+      "article": 24,
+      "author": 8,
+      "content": "Já na tohle přišel sám po 50 hodinách — kéž bych to věděl dřív!",
+      "created_at": "2024-05-11T00:00:00Z",
+      "likes": [
+        7,
+        9,
+        6,
+        10,
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2019,6 +3280,7 @@
     "model": "comments.comment",
     "pk": 65,
     "fields": {
+<<<<<<< Updated upstream
       "article": 20,
       "author": 2,
       "content": "Skvělý článek! Přesně takhle jsem to potřeboval vědět.",
@@ -2026,12 +3288,20 @@
       "likes": [
         3
       ]
+=======
+      "article": 25,
+      "author": 5,
+      "content": "Čtu tenhle blog každý den, vždy se něco nového dozvím. Díky!",
+      "created_at": "2024-05-15T00:00:00Z",
+      "likes": []
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 66,
     "fields": {
+<<<<<<< Updated upstream
       "article": 20,
       "author": 6,
       "content": "Sdílím přátelům, tohle se hodí každému.",
@@ -2040,6 +3310,19 @@
         3,
         5,
         10
+=======
+      "article": 25,
+      "author": 2,
+      "content": "Tuhle metodu znám, ale nikdy jsem ji nepopsal tak jasně jako ty.",
+      "created_at": "2024-05-16T00:00:00Z",
+      "likes": [
+        11,
+        6,
+        5,
+        10,
+        3,
+        9
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2047,12 +3330,25 @@
     "model": "comments.comment",
     "pk": 67,
     "fields": {
+<<<<<<< Updated upstream
       "article": 20,
       "author": 10,
       "content": "Zkusil jsem to dnes a fungovalo na první pokus!",
       "created_at": "2024-04-19T01:00:00Z",
       "likes": [
         3
+=======
+      "article": 25,
+      "author": 9,
+      "content": "Máš někde video k tomuhle? Text je fajn ale video by pomohlo.",
+      "created_at": "2024-05-15T00:00:00Z",
+      "likes": [
+        6,
+        11,
+        7,
+        5,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2060,6 +3356,7 @@
     "model": "comments.comment",
     "pk": 68,
     "fields": {
+<<<<<<< Updated upstream
       "article": 20,
       "author": 5,
       "content": "Dlouho jsem hledal tenhle návod, konečně.",
@@ -2069,6 +3366,17 @@
         7,
         10,
         8
+=======
+      "article": 25,
+      "author": 10,
+      "content": "Hmm, mě to úplně tak nefungovalo. Možná chyba ve verzi Minecraftu?",
+      "created_at": "2024-05-15T00:00:00Z",
+      "likes": [
+        4,
+        5,
+        9,
+        7
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2076,6 +3384,7 @@
     "model": "comments.comment",
     "pk": 69,
     "fields": {
+<<<<<<< Updated upstream
       "article": 21,
       "author": 9,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -2085,6 +3394,17 @@
         3,
         7,
         4
+=======
+      "article": 25,
+      "author": 11,
+      "content": "Pozor, na Bedrocku to funguje trochu jinak — tam musíš upravit krok 2.",
+      "created_at": "2024-05-14T00:00:00Z",
+      "likes": [
+        6,
+        8,
+        10,
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2092,6 +3412,7 @@
     "model": "comments.comment",
     "pk": 70,
     "fields": {
+<<<<<<< Updated upstream
       "article": 21,
       "author": 3,
       "content": "Oceňuji detailní popis každého kroku.",
@@ -2099,6 +3420,19 @@
       "likes": [
         11,
         9
+=======
+      "article": 26,
+      "author": 5,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-05-17T00:00:00Z",
+      "likes": [
+        8,
+        10,
+        6,
+        9,
+        3,
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2106,6 +3440,7 @@
     "model": "comments.comment",
     "pk": 71,
     "fields": {
+<<<<<<< Updated upstream
       "article": 21,
       "author": 10,
       "content": "Trochu složité na první pohled, ale po přečtení to dává smysl.",
@@ -2115,6 +3450,17 @@
         2,
         8,
         5
+=======
+      "article": 26,
+      "author": 3,
+      "content": "Hmm, mě to úplně tak nefungovalo. Možná chyba ve verzi Minecraftu?",
+      "created_at": "2024-05-18T00:00:00Z",
+      "likes": [
+        8,
+        4,
+        9,
+        10
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2122,6 +3468,7 @@
     "model": "comments.comment",
     "pk": 72,
     "fields": {
+<<<<<<< Updated upstream
       "article": 22,
       "author": 3,
       "content": "Přidám tip: s Fortune III je výnos ještě lepší.",
@@ -2132,6 +3479,14 @@
         6,
         4,
         7
+=======
+      "article": 26,
+      "author": 7,
+      "content": "Super návod, jen bych přidal info o tom, jak to funguje v multiplayer módu.",
+      "created_at": "2024-05-16T00:00:00Z",
+      "likes": [
+        2
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2139,6 +3494,7 @@
     "model": "comments.comment",
     "pk": 73,
     "fields": {
+<<<<<<< Updated upstream
       "article": 22,
       "author": 8,
       "content": "Oceňuji detailní popis každého kroku.",
@@ -2146,6 +3502,18 @@
       "likes": [
         10,
         9,
+=======
+      "article": 27,
+      "author": 9,
+      "content": "Klasika, která furt funguje. Díky za připomenutí.",
+      "created_at": "2024-05-23T00:00:00Z",
+      "likes": [
+        3,
+        10,
+        5,
+        7,
+        6,
+>>>>>>> Stashed changes
         11
       ]
     }
@@ -2154,6 +3522,7 @@
     "model": "comments.comment",
     "pk": 74,
     "fields": {
+<<<<<<< Updated upstream
       "article": 22,
       "author": 10,
       "content": "Moc hezky vysvětleno, palec nahoru.",
@@ -2161,6 +3530,14 @@
       "likes": [
         5,
         3
+=======
+      "article": 27,
+      "author": 10,
+      "content": "Docela složité pro začátečníky, ale výsledek stojí za to.",
+      "created_at": "2024-05-20T00:00:00Z",
+      "likes": [
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2168,6 +3545,7 @@
     "model": "comments.comment",
     "pk": 75,
     "fields": {
+<<<<<<< Updated upstream
       "article": 23,
       "author": 10,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -2177,6 +3555,14 @@
         7,
         2,
         5
+=======
+      "article": 28,
+      "author": 8,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-05-27T00:00:00Z",
+      "likes": [
+        11
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2184,12 +3570,26 @@
     "model": "comments.comment",
     "pk": 76,
     "fields": {
+<<<<<<< Updated upstream
       "article": 23,
       "author": 8,
       "content": "Výborně popsáno, i pro začátečníky srozumitelné.",
       "created_at": "2024-05-01T16:00:00Z",
       "likes": [
         7
+=======
+      "article": 29,
+      "author": 10,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-05-31T00:00:00Z",
+      "likes": [
+        3,
+        9,
+        11,
+        5,
+        6,
+        4
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2197,6 +3597,7 @@
     "model": "comments.comment",
     "pk": 77,
     "fields": {
+<<<<<<< Updated upstream
       "article": 23,
       "author": 11,
       "content": "Zkusil jsem to dnes a fungovalo na první pokus!",
@@ -2204,6 +3605,19 @@
       "likes": [
         6,
         2
+=======
+      "article": 30,
+      "author": 10,
+      "content": "Mohlo by být více obrázků, ale obsah je výborný.",
+      "created_at": "2024-06-03T00:00:00Z",
+      "likes": [
+        11,
+        9,
+        3,
+        7,
+        5,
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2211,6 +3625,7 @@
     "model": "comments.comment",
     "pk": 78,
     "fields": {
+<<<<<<< Updated upstream
       "article": 24,
       "author": 5,
       "content": "Tohle mi zachránilo celý playthrough, děkuju moc.",
@@ -2220,6 +3635,18 @@
         10,
         7,
         3,
+=======
+      "article": 30,
+      "author": 5,
+      "content": "Čtu tenhle blog každý den, vždy se něco nového dozvím. Díky!",
+      "created_at": "2024-06-01T00:00:00Z",
+      "likes": [
+        11,
+        10,
+        8,
+        3,
+        4,
+>>>>>>> Stashed changes
         6
       ]
     }
@@ -2228,17 +3655,29 @@
     "model": "comments.comment",
     "pk": 79,
     "fields": {
+<<<<<<< Updated upstream
       "article": 24,
       "author": 11,
       "content": "Tohle by mělo být ve hře jako tutorial.",
       "created_at": "2024-05-03T04:00:00Z",
       "likes": []
+=======
+      "article": 30,
+      "author": 7,
+      "content": "Zkusil jsem to na svém serveru s kamarády a fungovalo to perfektně!",
+      "created_at": "2024-06-05T00:00:00Z",
+      "likes": [
+        8,
+        11
+      ]
+>>>>>>> Stashed changes
     }
   },
   {
     "model": "comments.comment",
     "pk": 80,
     "fields": {
+<<<<<<< Updated upstream
       "article": 24,
       "author": 4,
       "content": "Jedna věc — ve verzi 1.20 se to trochu liší, ale jinak spot on.",
@@ -2249,6 +3688,14 @@
         8,
         10,
         5
+=======
+      "article": 30,
+      "author": 2,
+      "content": "Přesně tohle jsem hledal! Bookmarked.",
+      "created_at": "2024-06-04T00:00:00Z",
+      "likes": [
+        6
+>>>>>>> Stashed changes
       ]
     }
   },
@@ -2256,6 +3703,7 @@
     "model": "comments.comment",
     "pk": 81,
     "fields": {
+<<<<<<< Updated upstream
       "article": 24,
       "author": 7,
       "content": "Redstone mi dával smysl až po přečtení tohoto.",
@@ -3226,5 +4674,19 @@
         8
       ]
     }
+=======
+      "article": 30,
+      "author": 11,
+      "content": "Přesně tohle jsem hledal! Bookmarked.",
+      "created_at": "2024-06-05T00:00:00Z",
+      "likes": [
+        5,
+        3,
+        10,
+        8,
+        4
+      ]
+    }
+>>>>>>> Stashed changes
   }
 ]
